@@ -1,6 +1,6 @@
 # Text-Translation
 text translation (english->korean)
-what we are studying her?
+
   We are using many to many model of seq2seq modelling to get output text.
   We are using encoder decoder architecture for the model.
 
