@@ -1,5 +1,5 @@
 # Text-Translation
-text translation (english->french)
+text translation (english->deu)
 
   We are using many to many model of seq2seq modelling to get output text.
   We are using encoder decoder architecture for the model.
