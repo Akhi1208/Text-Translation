@@ -1,0 +1,2931 @@
+Go.	Geh.
+Hi.	Hallo!
+Hi.	Grüß Gott!
+Run!	Lauf!
+Run.	Lauf!
+Wow!	Potzdonner!
+Wow!	Donnerwetter!
+Duck!	Kopf runter!
+Fire!	Feuer!
+Help!	Hilfe!
+Help!	Zu Hülf!
+Stay.	Bleib!
+Stop!	Stopp!
+Stop!	Anhalten!
+Wait!	Warte!
+Wait.	Warte.
+Begin.	Fang an.
+Do it.	Mache es!
+Do it.	Tue es.
+Go on.	Mach weiter.
+Hello!	Hallo!
+Hello!	Sers!
+Hurry!	Beeil dich!
+Hurry!	Schnell!
+I hid.	Ich versteckte mich.
+I hid.	Ich habe mich versteckt.
+I ran.	Ich rannte.
+I see.	Ich verstehe.
+I see.	Aha.
+I try.	Ich versuche es.
+I try.	Ich probiere es.
+I won!	Ich hab gewonnen!
+I won!	Ich habe gewonnen!
+I won.	Ich habe gewonnen.
+Oh no!	Oh, Nein!
+Relax.	Entspann dich.
+Shoot!	Feuer!
+Shoot!	Schieß!
+Smile.	Lächeln!
+Sorry?	Entschuldigung?
+Ask me.	Frag mich!
+Ask me.	Fragt mich!
+Ask me.	Fragen Sie mich!
+Attack!	Angriff!
+Attack!	Attacke!
+Buy it.	Kauf’s!
+Cheers!	Zum Wohl!
+Eat it.	Iss es.
+Eat up.	Iss fertig!
+Eat up.	Iss auf.
+Eat up.	Iss auf!
+Freeze!	Keine Bewegung!
+Freeze!	Stehenbleiben!
+Go now.	Geh jetzt!
+Got it!	Verstanden!
+Got it!	Ich hab’s!
+Got it!	Aha!
+Got it?	Kapiert?
+Got it?	Verstanden?
+Got it?	Einverstanden?
+He ran.	Er rannte.
+He ran.	Er lief.
+Hop in.	Mach mit!
+Hop in.	Spring rein!
+Hug me.	Drück mich!
+Hug me.	Nimm mich in den Arm!
+Hug me.	Umarme mich!
+I care.	Mir ist es wichtig.
+I fell.	Ich fiel.
+I fell.	Ich fiel hin.
+I fell.	Ich stürzte.
+I fell.	Ich bin hingefallen.
+I fell.	Ich bin gestürzt.
+I fled.	Ich flüchtete.
+I fled.	Ich bin geflüchtet.
+I know.	Ich weiß.
+I lied.	Ich habe gelogen.
+I lost.	Ich habe verloren.
+I paid.	Ich habe bezahlt.
+I paid.	Ich zahlte.
+I sang.	Ich sang.
+I spit.	Ich spuckte.
+I spit.	Ich habe gespuckt.
+I swim.	Ich schwimme.
+I wept.	Ich weinte.
+I wept.	Ich habe geweint.
+I'm 19.	Ich bin 19 Jahre alt.
+I'm 19.	Ich bin 19.
+I'm OK.	Mir geht's gut.
+I'm OK.	Es geht mir gut.
+I'm up.	Ich bin wach.
+I'm up.	Ich bin auf.
+Listen.	Hört zu.
+No way!	Unmöglich!
+No way!	Das kommt nicht in Frage!
+No way!	Das gibt’s doch nicht!
+No way!	Ausgeschlossen!
+No way!	In keinster Weise!
+Really?	Wirklich?
+Really?	Echt?
+Really?	Im Ernst?
+Thanks!	Danke!
+Thanks.	Danke!
+Try it.	Versuch’s!
+We try.	Wir versuchen es.
+We won.	Wir haben gewonnen.
+Why me?	Warum ich?
+Ask Tom.	Frag Tom!
+Ask Tom.	Fragen Sie Tom!
+Ask Tom.	Fragt Tom!
+Awesome!	Fantastisch!
+Be cool.	Entspann dich!
+Be fair.	Sei nicht ungerecht!
+Be fair.	Sei fair!
+Be kind.	Sei nett!
+Be nice.	Sei nett!
+Be nice.	Seien Sie nett!
+Beat it.	Geh weg!
+Beat it.	Hau ab!
+Beat it.	Verschwinde!
+Beat it.	Verdufte!
+Beat it.	Mach dich fort!
+Beat it.	Zieh Leine!
+Beat it.	Mach dich vom Acker!
+Beat it.	Verzieh dich!
+Beat it.	Verkrümele dich!
+Beat it.	Troll dich!
+Beat it.	Zisch ab!
+Beat it.	Pack dich!
+Beat it.	Mach ’ne Fliege!
+Beat it.	Schwirr ab!
+Beat it.	Mach die Sause!
+Beat it.	Scher dich weg!
+Beat it.	Scher dich fort!
+Burn it.	Verbrenne es!
+Burn it.	Verbrennt es!
+Burn it.	Verbrennen Sie es!
+Bury it.	Vergrabe es!
+Call me.	Ruf mich an.
+Come in.	Komm herein.
+Come in.	Herein!
+Come on!	Komm!
+Come on!	Kommt!
+Come on!	Mach schon!
+Come on!	Macht schon!
+Come on.	Komm schon!
+Drop it!	Lasst es fallen!
+Drop it!	Fallen lassen!
+Drop it.	Fallen lassen!
+Fold it.	Falte es zusammen!
+Get Tom.	Hol Tom.
+Get out!	Raus!
+Get out!	Geht raus!
+Get out.	Geh raus.
+Get out.	Geht raus!
+Go away!	Geh weg!
+Go away!	Hau ab!
+Go away!	Verschwinde!
+Go away!	Verdufte!
+Go away!	Mach dich fort!
+Go away!	Zieh Leine!
+Go away!	Mach dich vom Acker!
+Go away!	Verzieh dich!
+Go away!	Verkrümele dich!
+Go away!	Troll dich!
+Go away!	Zisch ab!
+Go away!	Pack dich!
+Go away!	Mach ’ne Fliege!
+Go away!	Schwirr ab!
+Go away!	Mach die Sause!
+Go away!	Scher dich weg!
+Go away!	Scher dich fort!
+Go away!	Gehen Sie weg!
+Go away.	Geh weg!
+Go away.	Verpiss dich!
+Go away.	Hau ab!
+Go away.	Verschwinde!
+Go away.	Verdufte!
+Go away.	Mach dich fort!
+Go away.	Zieh Leine!
+Go away.	Mach dich vom Acker!
+Go away.	Verzieh dich!
+Go away.	Verkrümele dich!
+Go away.	Troll dich!
+Go away.	Zisch ab!
+Go away.	Pack dich!
+Go away.	Mach ’ne Fliege!
+Go away.	Schwirr ab!
+Go away.	Mach die Sause!
+Go away.	Scher dich weg!
+Go away.	Scher dich fort!
+Go away.	Gehen Sie weg.
+Go home.	Geh nach Hause.
+Go home.	Geh heim.
+Goodbye!	Auf Wiedersehen!
+Goodbye!	Leb wohl!
+Goodbye!	Tschüss!
+Goodbye.	Auf Wiedersehen.
+Hang on!	Nicht nachlassen!
+Hang on.	Warte!
+He came.	Er kam.
+He left.	Er ist gegangen.
+He runs.	Er rennt.
+He runs.	Er läuft.
+Help me.	Hilf mir.
+Help us.	Hilf uns!
+Help us.	Helft uns!
+Help us.	Helfen Sie uns!
+Hi, Tom.	Hallo, Tom!
+Hit Tom.	Schlage Tom!
+Hit Tom.	Schlagt Tom!
+Hit Tom.	Schlagen Sie Tom!
+Hold it!	Nicht bewegen!
+Hold it!	Warte!
+Hold it.	Stehen bleiben!
+Hold it.	Bleib stehen!
+Hold it.	Bleiben Sie stehen!
+Hold it.	Bleibt stehen!
+Hold on.	Warten Sie kurz!
+How sad!	Das ist aber schade!
+Hug Tom.	Umarme Tom!
+Hug Tom.	Umarmen Sie Tom!
+Hug Tom.	Umarmt Tom!
+Hug Tom.	Drückt Tom!
+Hug Tom.	Drücken Sie Tom!
+Hug Tom.	Drück Tom!
+I agree.	Ich bin einverstanden.
+I cried.	Ich weinte.
+I cried.	Ich habe geweint.
+I drove.	Ich fuhr!
+I drove.	Ich bin gefahren!
+I froze.	Ich fror.
+I froze.	Ich habe gefroren.
+I snore.	Ich schnarche.
+I swore.	Ich habe geschworen.
+I swore.	Ich schwur.
+I waved.	Ich winkte.
+I waved.	Ich habe gewunken.
+I'll go.	Ich gehe.
+I'm bad.	Ich bin schlecht.
+I'm fat.	Ich bin fett.
+I'm fat.	Ich bin dick.
+I'm hit!	Ich wurde getroffen!
+I'm hot.	Mir ist heiß.
+I'm ill.	Ich bin krank!
+I'm mad.	Ich bin verrückt.
+I'm new.	Ich bin neu.
+I'm old.	Ich bin alt.
+I'm sad.	Ich bin traurig.
+I'm shy.	Ich bin schüchtern.
+I'm wet.	Ich bin nass.
+It's OK.	Es ist in Ordnung.
+It's me!	Ich bin’s.
+It's me.	Ich bin’s.
+Join us.	Komm mit.
+Join us.	Kommt mit.
+Keep it.	Behalt es!
+Keep it.	Behalt ihn!
+Keep it.	Behalt sie!
+Keep it.	Behalten Sie ihn!
+Keep it.	Behalten Sie sie!
+Keep it.	Behalten Sie es!
+Keep it.	Behaltet ihn!
+Keep it.	Behaltet sie!
+Keep it.	Behaltet es!
+Kill it.	Töte es!
+Kiss me.	Küsst mich.
+Lie low.	Leg dich hin!
+Lie low.	Hinlegen!
+Lie low.	Niederlegen!
+Lie low.	Leg dich nieder!
+Lie low.	Legt euch nieder!
+Lie low.	Legen Sie sich nieder!
+Lie low.	Legt euch hin!
+Lie low.	Legen Sie sich hin!
+Lock it.	Schließ es ab.
+Lock it.	Schließe sie ab.
+Lock it.	Schließ ihn ab.
+Me, too.	Ich auch.
+Open it.	Öffne es!
+Open it.	Öffnet es!
+Open it.	Öffnen Sie es!
+Open up.	Mach auf!
+Perfect!	Perfekt!
+Pull it.	Zieh dran.
+Push it.	Drück drauf.
+See you!	Tschüss!
+See you.	Wir sehen uns.
+Show me.	Zeig's mir!
+Shut up!	Halt’s Maul!
+So long.	Bis später!
+Stop it.	Hör auf.
+Take it.	Nimm es.
+Take it.	Nehmt es.
+Take it.	Nehmen Sie es.
+Tell me.	Sag es mir.
+Tell me.	Erzähl's mir.
+Tom ate.	Tom aß.
+Tom ate.	Tom hat gegessen.
+Tom hid.	Thomas versteckte sich.
+Tom hid.	Thomas hat sich versteckt.
+Tom ran.	Tom rannte.
+Tom ran.	Tom ist gerannt.
+Tom won.	Tom hat gewonnen.
+Wait up.	Warte mal!
+Wait up.	Warten Sie mal!
+Wait up.	Wartet mal!
+Wake up!	Wach auf!
+Wake up!	Wachen Sie auf!
+Wake up.	Wach auf!
+Wake up.	Wachen Sie auf!
+Wash up.	Wasch dir die Hände.
+Wash up.	Wasch dich.
+Wash up.	Wasch dir das Gesicht.
+We lost.	Wir haben verloren.
+We swam.	Wir schwammen.
+Welcome.	Willkommen!
+Who ate?	Wer hat gegessen?
+Who ate?	Wer aß?
+Who ran?	Wer rannte?
+Who ran?	Wer ist gerannt?
+Who won?	Wer hat gewonnen?
+You run.	Du läufst.
+You run.	Sie laufen.
+You win.	Du hast gewonnen.
+You won.	Du hast gewonnen.
+All rise.	Alle aufstehen!
+Am I fat?	Bin ich dick?
+Ask them.	Frag sie.
+Back off.	Komm nicht näher!
+Be a man.	Sei ein Mann!
+Be brave.	Sei mutig!
+Be brave.	Sei tapfer!
+Be brave.	Seien Sie tapfer!
+Be brave.	Seid tapfer!
+Be brief.	Fassen Sie sich kurz.
+Be brief.	Fass dich kurz.
+Be brief.	Fasst euch kurz.
+Be still.	Sei ruhig.
+Call Tom.	Ruf Tom an!
+Call Tom.	Rufe Tom an!
+Call Tom.	Rufen Sie Tom an!
+Call Tom.	Ruft Tom an!
+Can I go?	Kann ich gehen?
+Catch me.	Fang mich!
+Catch me.	Fangen Sie mich!
+Catch me.	Fangt mich!
+Cheer up!	Kopf hoch!
+Cool off!	Reg dich ab!
+Cuff him.	Leg ihm Handschellen an.
+Cuff him.	Legen Sie ihm Handschellen an.
+Don't go.	Geh nicht.
+Drive on.	Fahr weiter.
+Find Tom.	Finde Tom.
+Find Tom.	Findet Tom.
+Find Tom.	Finden Sie Tom.
+Fix this.	Beheben Sie das.
+Fix this.	Behebe das.
+Fix this.	Repariere das.
+Fix this.	Reparieren Sie das.
+Get away!	Geh weg!
+Get away!	Verpiss dich!
+Get away!	Hau ab!
+Get away!	Verschwinde!
+Get away!	Verdufte!
+Get away!	Mach dich fort!
+Get away!	Zieh Leine!
+Get away!	Mach dich vom Acker!
+Get away!	Verzieh dich!
+Get away!	Verkrümele dich!
+Get away!	Troll dich!
+Get away!	Zisch ab!
+Get away!	Pack dich!
+Get away!	Mach ’ne Fliege!
+Get away!	Schwirr ab!
+Get away!	Mach die Sause!
+Get away!	Scher dich weg!
+Get away!	Scher dich fort!
+Get down!	Runter!
+Get down!	Hinlegen!
+Get down!	In Deckung!
+Get down.	Komm runter.
+Get down.	Kommen Sie runter.
+Get lost!	Geh weg!
+Get lost!	Verpiss dich!
+Get lost!	Hau ab!
+Get lost!	Verschwinde!
+Get lost!	Verdufte!
+Get lost!	Mach dich fort!
+Get lost!	Zieh Leine!
+Get lost!	Mach dich vom Acker!
+Get lost!	Verzieh dich!
+Get lost!	Verkrümele dich!
+Get lost!	Troll dich!
+Get lost!	Zisch ab!
+Get lost!	Pack dich!
+Get lost!	Mach ’ne Fliege!
+Get lost!	Schwirr ab!
+Get lost!	Mach die Sause!
+Get lost!	Scher dich weg!
+Get lost!	Scher dich fort!
+Get real!	Jetzt mal ernsthaft!
+Go ahead!	Nur zu!
+Go ahead.	Mach weiter!
+Go there.	Geh da hin!
+Grab Tom.	Hol Tom.
+Grab him.	Greif ihn dir!
+Have fun.	Viel Vergnügen!
+Have fun.	Viel Spaß!
+Have fun.	Feier schön!
+He spoke.	Er sprach.
+He tried.	Er versuchte es.
+He tried.	Er hat es versucht.
+He tries.	Er versucht es.
+He's Tom.	Er ist Tom.
+Help Tom.	Hilf Tom!
+Help Tom.	Helft Tom!
+Help Tom.	Helfen Sie Tom!
+How cute!	Was ist das nicht süß!
+How cute!	Wie süß!
+How deep?	Wie tief?
+How nice!	Wie schön!
+How rude!	Wie unverschämt!
+How rude!	Wie unhöflich!
+Humor me.	Tu mir den Gefallen.
+Humor me.	Tun Sie mir den Gefallen.
+Hurry up.	Beeil dich!
+Hurry up.	Beeil dich.
+Hurry up.	Mach hin!
+I can go.	Ich kann gehen.
+I cursed.	Ich fluchte.
+I cursed.	Ich habe geflucht.
+I did it.	Ich habe es geschafft.
+I did it.	Ich hab's gemacht.
+I get by.	Ich komme klar.
+I get by.	Ich komme zurecht.
+I get by.	Ich komme über die Runden.
+I get it.	Ich verstehe.
+I got it.	Ich habe es verstanden.
+I got it.	Ich habe es bekommen.
+I got it.	Ich hab's.
+I had it.	Ich hatte es.
+I helped.	Ich half.
+I helped.	Ich habe geholfen.
+I jumped.	Ich bin gesprungen.
+I moaned.	Ich stöhnte.
+I moaned.	Ich ächzte.
+I nodded.	Ich nickte.
+I paused.	Ich hielt an.
+I paused.	Ich pausierte.
+I prayed.	Ich betete.
+I refuse.	Ich weigere mich.
+I resign.	Ich trete zurück.
+I rested.	Ich rastete.
+I shaved.	Ich rasierte mich.
+I shaved.	Ich habe mich rasiert.
+I smiled.	Ich lächelte.
+I stayed.	Ich blieb.
+I stayed.	Ich bin dageblieben.
+I use it.	Ich benutze es.
+I waited.	Ich habe gewartet.
+I winked.	Ich blinzelte.
+I winked.	Ich zwinkerte.
+I yawned.	Ich gähnte.
+I yawned.	Ich habe gegähnt.
+I'll pay.	Ich werde zahlen.
+I'll try.	Ich werde es versuchen.
+I'm a DJ.	Ich bin DJ.
+I'm back.	Ich bin wieder da.
+I'm bald.	Ich bin glatzköpfig.
+I'm bald.	Ich habe eine Glatze.
+I'm busy.	Ich bin beschäftigt.
+I'm busy.	Ich habe zu tun.
+I'm cool.	Ich bin cool.
+I'm deaf.	Ich bin taub.
+I'm deaf.	Ich bin gehörlos.
+I'm fair.	Ich bin gerecht.
+I'm fine.	Mir geht's gut.
+I'm fine.	Mir geht es gut.
+I'm fine.	Es geht mir gut.
+I'm free.	Ich bin frei.
+I'm full.	Ich bin satt.
+I'm game.	Ich bin dabei.
+I'm game.	Ich mache mit.
+I'm good.	Mir geht's gut.
+I'm here.	Ich bin hier.
+I'm home.	Ich bin zu Hause.
+I'm late.	Ich komme zu spät.
+I'm lost.	Ich habe mich verirrt.
+I'm mean.	Ich bin gemein.
+I'm next.	Ich bin der Nächste.
+I'm okay.	Es geht mir gut.
+I'm rich.	Ich bin reich.
+I'm safe.	Ich bin sicher.
+I'm sick.	Ich bin krank!
+I'm sure.	Ich bin sicher.
+I'm tall.	Ich bin groß.
+I'm thin.	Ich bin dünn.
+I'm tidy.	Ich bin ordentlich.
+I'm ugly.	Ich bin hässlich.
+I'm weak.	Ich bin schwach.
+I'm well.	Mir geht es gut.
+I'm well.	Es geht mir gut.
+It helps.	Das hilft.
+It hurts.	Es tut weh.
+It hurts.	Es schmerzt.
+It works.	Es klappt.
+It works.	Es funktioniert.
+It's Tom.	Es ist Tom.
+It's big.	Sie ist groß.
+It's dry.	Es ist trocken.
+It's his.	Es ist seins.
+It's hot.	Es ist heiß.
+It's hot.	Sie ist heiß.
+It's hot.	Er ist heiß.
+It's new.	Es ist neu.
+It's red.	Das ist rot.
+It's sad.	Es ist traurig.
+It's tea.	Das ist Tee.
+Keep out!	Eintritt verboten!
+Keep out.	Komm nicht herein.
+Keep out.	Kein Zutritt.
+Kill Tom.	Töte Thomas!
+Kill Tom.	Tötet Thomas!
+Kill Tom.	Töten Sie Thomas!
+Kiss Tom.	Küsse Tom!
+Kiss Tom.	Küssen Sie Tom!
+Kiss Tom.	Küsst Tom!
+Leave us.	Geh weg!
+Leave us.	Gehen Sie weg.
+Leave us.	Lass uns allein.
+Leave us.	Lassen Sie uns allein.
+Let's go!	Lass uns gehen!
+Let's go!	Auf geht's!
+Let's go!	Gehen wir!
+Let's go!	Lasst uns gehen.
+Let's go!	Lass uns losgehen.
+Let's go!	Lasst uns losgehen.
+Let's go!	Auf, auf!
+Look out!	Vorsicht!
+Marry me.	Heirate mich.
+May I go?	Darf ich gehen?
+Save Tom.	Rette Tom!
+Save Tom.	Rettet Tom!
+Save Tom.	Retten Sie Tom!
+She came.	Sie kam.
+She left.	Sie ist gegangen.
+She lied.	Sie log.
+She runs.	Sie rennt.
+Sit down!	Setz dich!
+Sit down!	Setzen Sie sich!
+Sit down.	Setz dich!
+Speak up!	Sprich lauter!
+Speed up.	Leg mal ’n Zahn zu!
+Stand up!	Stehen Sie auf!
+Stand up!	Steht auf!
+Stand up!	Stehe auf!
+Stand up.	Steh auf.
+Stop Tom.	Halte Tom auf!
+Stop Tom.	Halten Sie Tom auf!
+Stop Tom.	Haltet Tom auf!
+Take Tom.	Nimm Tom.
+Taste it.	Probier es mal.
+Tell Tom.	Sag es Tom.
+Tell Tom.	Sagen Sie es Tom.
+Tell Tom.	Erzähl es Tom.
+Tell Tom.	Erzählen Sie Tom davon.
+Tell Tom.	Sagt es Tom.
+Terrific!	Hervorragend!
+Terrific!	Sagenhaft!
+Terrific!	Wunderbar!
+They won.	Sie haben gewonnen.
+Tom came.	Tom kam.
+Tom came.	Tom ist gekommen.
+Tom died.	Tom ist gestorben.
+Tom died.	Tom starb.
+Tom fell.	Tom fiel.
+Tom fell.	Tom ist gefallen.
+Tom knew.	Tom wusste es.
+Tom knew.	Tom hat es gewusst.
+Tom knew.	Tom wusste Bescheid.
+Tom left.	Tom ist gegangen.
+Tom left.	Tom ging.
+Tom lied.	Tom hat gelogen.
+Tom lied.	Tom log.
+Tom lies.	Tom lügt.
+Tom lost.	Tom hat verloren.
+Tom paid.	Tom hat gezahlt.
+Tom quit.	Tom hat aufgehört.
+Tom sang.	Tom sang.
+Tom spit.	Thomas spuckte.
+Tom spit.	Thomas hat gespuckt.
+Tom swam.	Tom schwamm.
+Tom swam.	Tom ist geschwommen.
+Tom went.	Tom ging.
+Tom wept.	Tom weinte.
+Tom's up.	Tom ist auf.
+Too late.	Zu spät.
+Touch it.	Fass es an.
+Trust me!	Vertraue mir!
+Trust me.	Vertraue mir.
+Trust me.	Vertraut mir!
+Trust me.	Vertrauen Sie mir!
+Try hard.	Versuch es richtig!
+Try some.	Probier mal.
+Try this.	Probier mal!
+Use this.	Nimm das hier!
+Warn Tom.	Warnen Sie Tom.
+Warn Tom.	Warne Tom.
+Watch me.	Schau mir zu.
+Watch me.	Schauen Sie mir zu.
+Watch us.	Beobachte uns.
+Watch us.	Beobachten Sie uns.
+Watch us.	Schau uns zu.
+Watch us.	Schaut uns zu.
+Watch us.	Schauen Sie uns zu.
+Watch us.	Beobachtet uns.
+We agree.	Wir stimmen zu.
+We agree.	Wir sind einverstanden.
+We tried.	Wir haben es versucht.
+We tried.	Wir versuchten es.
+We'll go.	Wir werden gehen.
+We're OK.	Wir sind in Ordnung.
+What for?	Wozu?
+What fun!	Was für ein Spaß!
+Who am I?	Wer bin ich?
+Who came?	Wer ist gekommen?
+Who came?	Wer kam?
+Who died?	Wer ist gestorben?
+Who fell?	Wer fiel?
+Who fell?	Wer ist gefallen?
+Who lost?	Wer hat verloren?
+Who quit?	Wer hat aufgehört?
+Who quit?	Wer ist ausgeschieden?
+Who swam?	Wer schwamm?
+Who swam?	Wer ist geschwommen?
+Who's he?	Wer ist er?
+Write me.	Schreib mir!
+Write me.	Schreiben Sie mir!
+Write me.	Schreibt mir!
+You lost.	Sie haben verloren.
+You lost.	Du hast verloren.
+You lost.	Ihr habt verloren.
+Aim. Fire!	Zielen. Feuer!
+Am I dead?	Bin ich tot?
+Am I late?	Bin ich zu spät?
+Answer me.	Antworten Sie mir.
+Be seated.	Setz dich!
+Be seated.	Setzen Sie sich.
+Birds fly.	Vögel fliegen.
+Bless you.	Gesundheit.
+Call home!	Ruf zuhause an!
+Call home!	Rufen Sie zuhause an!
+Calm down!	Beruhige dich!
+Calm down.	Beruhige dich!
+Calm down.	Beruhigen Sie sich!
+Calm down.	Beruhigen Sie sich.
+Can I eat?	Kann ich essen?
+Can we go?	Können wir gehen?
+Catch Tom.	Fang Tom!
+Catch Tom.	Fange Tom!
+Catch Tom.	Fangen Sie Tom!
+Catch Tom.	Fangt Tom!
+Catch him.	Fang ihn.
+Chill out.	Entspann dich.
+Come back.	Komm wieder!
+Come here.	Komm hierher.
+Come here.	Komm her!
+Come here.	Kommt her!
+Come home.	Kommt heim!
+Come home.	Komm heim!
+Come over.	Komm her!
+Come soon.	Komm bald.
+Come soon.	Kommen Sie bald.
+Cool down.	Beruhige dich!
+Did I win?	Habe ich gewonnen?
+Do it now.	Mach es jetzt!
+Dogs bark.	Hunde bellen.
+Don't ask.	Frag nicht.
+Don't cry.	Weine nicht!
+Don't cry.	Weint nicht.
+Don't cry.	Weinen Sie nicht.
+Don't cry.	Weinen Sie nicht!
+Don't cry.	Weint nicht!
+Don't die.	Stirb nicht!
+Don't lie.	Lüge nicht!
+Don't lie.	Lüge nicht.
+Don't run.	Lauf nicht.
+Excuse me.	Es tut mir leid.
+Excuse me.	Entschuldigung!
+Excuse me.	Entschuldigung.
+Excuse me.	Entschuldigen Sie!
+Excuse me.	Verzeihung.
+Excuse me?	Verzeihung?
+Fantastic!	Fantastisch!
+Fantastic!	Ganz toll!
+Feel this.	Fühl mal.
+Follow me.	Folge mir.
+Follow us.	Folge uns!
+Follow us.	Folgen Sie uns!
+Forget it!	Vergiss es!
+Forget it!	Daraus wird nichts.
+Forget it.	Vergiss es.
+Forget it.	Das kannst du knicken.
+Forget me.	Vergiss mich!
+Forget me.	Vergesst mich!
+Forget me.	Vergessen Sie mich!
+Get ready.	Mach dich bereit!
+Get ready.	Mach dich fertig.
+Go for it.	Nur zu!
+Go for it.	Tue es.
+Go get it.	Hol's dir!
+Go inside.	Geh rein!
+Go inside.	Komm rein.
+Go to bed.	Geh schlafen.
+Go to bed.	Geh schlafen!
+Go to bed.	Gehe schlafen!
+Go to bed.	Gehen Sie schlafen!
+Go to bed.	Geh ins Bett!
+Go to bed.	Geht ins Bett!
+Go to bed.	Legt euch schlafen!
+Goodnight.	Gute Nacht.
+Goodnight.	Schönen Abend.
+Grab that.	Nimm das.
+Grab that.	Hol das.
+Grab this.	Schnapp dir das.
+Hands off.	Hände weg!
+Have some.	Nimm dir davon.
+Have some.	Nehmen Sie davon.
+He is ill.	Er ist krank.
+He is old.	Er ist alt.
+He shaved.	Er rasierte sich.
+He smiled.	Er lächelte.
+He's a DJ.	Er ist DJ.
+He's a DJ.	Er ist Plattenaufleger.
+He's fast.	Er ist schnell.
+He's good.	Er ist gut.
+He's lazy.	Er ist träge.
+He's rich.	Er ist reich.
+He's sexy.	Er ist sexy.
+Head east.	Fahr Richtung Osten.
+Head east.	Fahren Sie Richtung Osten.
+Head east.	Fahrt Richtung Osten.
+Here I am.	Hier bin ich.
+Here's $5.	Hier sind fünf Dollar.
+Hold fire.	Nicht schießen!
+Hold this.	Halt das!
+Hold this.	Halt das mal.
+Hold this.	Halten Sie das!
+Hold this.	Haltet das!
+How awful!	Schrecklich!
+How is it?	Wie ist die Lage?
+How weird!	Wie seltsam!
+Humor Tom.	Lass Tom doch seinen Willen.
+Humor Tom.	Lasst Tom doch seinen Willen.
+I am here.	Ich bin hier.
+I am okay.	Es geht mir gut.
+I am sure.	Ich bin sicher.
+I am tall.	Ich bin groß.
+I am weak.	Ich bin schwach.
+I am well.	Mir geht es gut.
+I am well.	Es geht mir gut.
+I approve.	Ich bin einverstanden.
+I can fly.	Ich kann fliegen.
+I can run.	Ich kann laufen.
+I can run.	Ich kann rennen.
+I can ski.	Ich kann Ski fahren.
+I can win.	Ich kann gewinnen.
+I changed.	Ich änderte mich.
+I cheated.	Ich habe geschummelt.
+I clapped.	Ich klatschte.
+I coughed.	Ich hustete.
+I coughed.	Ich habe gehustet.
+I escaped.	Ich entkam.
+I escaped.	Ich bin entkommen.
+I fainted.	Ich wurde ohnmächtig.
+I fainted.	Ich fiel in Ohnmacht.
+I fear so.	Ich fürchte, ja.
+I frowned.	Ich runzelte die Stirn.
+I gave up.	Ich habe aufgegeben.
+I gave up.	Ich gab auf.
+I get you.	Ich verstehe, was du meinst.
+I giggled.	Ich kicherte.
+I give in.	Ich gebe auf.
+I give in.	Ich gebe nach.
+I give in.	Ich füge mich.
+I give up.	Ich gebe auf.
+I got hot.	Mir wurde heiß.
+I got mad.	Ich wurde wütend.
+I got mad.	Ich wurde böse.
+I got you.	Ich habe dich.
+I had fun.	Ich hatte Spaß.
+I had fun.	Ich habe mich amüsiert.
+I have it.	Ich habe es.
+I hit Tom.	Ich habe Tom geschlagen.
+I hit Tom.	Ich schlage Tom.
+I hit Tom.	Ich schlug Tom.
+I hope so.	Das hoffe ich.
+I hope so.	Ich hoffe es.
+I hung up.	Ich habe aufgelegt.
+I hurried.	Ich habe mich beeilt.
+I knew it.	Ich wusste es.
+I knew it.	Ich wusste das.
+I laughed.	Ich lachte.
+I like it.	Das gefällt mir.
+I like it.	Es ist mir recht.
+I lost it.	Ich habe ihn verloren.
+I love it!	Ich liebe es!
+I love it.	Ich liebe es.
+I made it.	Ich habe es gemacht.
+I made it.	Ich habe es geschafft.
+I may win.	Vielleicht gewinne ich.
+I mean it!	Ich meine es so!
+I mean it!	Ich meine es ernst!
+I mean it.	Ich meine es ernst.
+I mean it.	Es ist ernst gemeint von mir.
+I met Tom.	Ich habe Tom getroffen.
+I met Tom.	Ich traf Tom.
+I met Tom.	Ich bin Tom begegnet.
+I met him.	Ich habe ihn getroffen.
+I miss it.	Ich vermisse es.
+I miss it.	Es fehlt mir.
+I promise.	Ich versprech's.
+I promise.	Ich verspreche es.
+I relaxed.	Ich entspanne mich.
+I relaxed.	Ich habe mich entspannt.
+I retired.	Ich ging in Pension.
+I said no.	Ich sagte nein.
+I saw Tom.	Ich habe Tom gesehen.
+You seem depressed.	Ihr scheint niedergeschlagen.
+You seem depressed.	Sie scheinen niedergeschlagen.
+You seem very busy.	Du scheinst sehr beschäftigt zu sein.
+You seem very busy.	Sie scheinen sehr beschäftigt zu sein.
+You seem very busy.	Ihr scheint sehr beschäftigt zu sein.
+You should do that.	Du solltest das tun.
+You should eat now.	Du solltest jetzt etwas essen.
+You should go home.	Du solltest nach Hause gehen.
+You should go home.	Sie sollten nach Hause gehen.
+You should go home.	Ihr solltet nach Hause gehen.
+You should go, too.	Du solltest auch gehen.
+You should join us.	Du solltest bei uns mitmachen.
+You should know it.	Du solltest es wissen.
+You should know it.	Ihr solltet es wissen.
+You should know it.	Sie sollten es wissen.
+You should know it.	Das solltest du wissen.
+You should sue Tom.	Du solltest Tom verklagen.
+You should sue Tom.	Sie sollten Tom verklagen.
+You should sue Tom.	Ihr solltet Tom verklagen.
+You sound like Tom.	Du hörst dich wie Tom an.
+You sure are dirty.	Du bist aber schmutzig!
+You sure eat a lot.	Du isst aber viel!
+You take the money.	Nimm du das Geld.
+You taught me that.	Du hast mir das beigebracht.
+You taught me that.	Sie haben mir das beigebracht.
+You taught me that.	Ihr habt mir das beigebracht.
+You taught us that.	Du hast uns das beigebracht.
+You think too much.	Du denkst zu viel.
+You think too much.	Sie denken zu viel nach.
+You think too much.	Du denkst zu viel nach.
+You think too much.	Ihr denkt zu viel nach.
+You were in a coma.	Du warst im Koma.
+You were in a coma.	Sie waren im Koma.
+You were in a coma.	Ihr wart im Koma.
+You were in danger.	Du warst in Gefahr.
+You were in danger.	Ihr seid in Gefahr gewesen.
+You were in danger.	Sie waren gefährdet.
+You were my friend.	Du warst mein Freund.
+You were too young.	Du warst zu jung.
+You worry too much.	Du machst dir zu viele Sorgen.
+You'd better leave.	Du gehst besser.
+You'd better leave.	Ihr verschwindet besser.
+You'd better leave.	Sie entfernen sich besser.
+You'll feel better.	Du wirst dich besser fühlen.
+You'll get over it.	Du wirst darüber hinwegkommen.
+You'll get over it.	Sie werden darüber hinwegkommen.
+You'll like Boston.	Es wird dir in Boston gefallen.
+You'll like Boston.	Es wird Ihnen in Boston gefallen.
+You'll like Boston.	Es wird euch in Boston gefallen.
+You'll regret this.	Das werden Sie bereuen!
+You're a born poet.	Du bist ein geborener Dichter.
+You're a brave man.	Du bist ein mutiger Mann!
+You're a good cook.	Du bist ein guter Koch.
+You're a good girl.	Du bist ein gutes Mädchen.
+You're a good girl.	Du bist ein braves Mädchen.
+You're a good liar.	Du bist ein guter Lügner.
+You're a good wife.	Du bist eine gute Gemahlin.
+You're a hypocrite.	Du bist ein Heuchler.
+You're a hypocrite.	Sie sind ein Heuchler.
+You're a liability.	Du bist eine Belastung.
+You're a scoundrel.	Du bist ein Halunke.
+You're a sharp one.	Na, du bist ja ein Schlaumeier.
+You're a smart boy.	Du bist ein kluger Junge.
+You're a woman now.	Du bist jetzt eine Frau.
+You're all cowards.	Ihr seid alle Feiglinge.
+You're all racists.	Ihr seid alle Rassisten.
+You're always busy.	Du bist immer beschäftigt.
+You're always busy.	Ihr seid immer beschäftigt.
+You're always busy.	Sie sind immer beschäftigt.
+You're an optimist.	Du bist ein Optimist.
+You're an optimist.	Sie sind ein Optimist.
+You're annoying me.	Du nervst mich.
+You're avoiding me.	Du meidest mich.
+You're avoiding me.	Sie meiden mich.
+You're avoiding me.	Ihr meidet mich.
+You're being naive.	Du bist naiv.
+You're both insane.	Ihr seid beide verrückt.
+You're charismatic.	Du bist charismatisch.
+You're charismatic.	Sie sind charismatisch.
+You're charismatic.	Ihr seid charismatisch.
+You're cooperating.	Ihr arbeitet mit.
+You're cooperating.	Sie arbeiten mit.
+You're cooperating.	Du arbeitest mit.
+You're cooperating.	Du wirkst mit.
+You're cooperating.	Ihr wirkt mit.
+You're cooperating.	Sie wirken mit.
+You're cooperating.	Du kooperierst.
+You're cooperating.	Sie kooperieren.
+You're cooperating.	Ihr kooperiert.
+You're doing great.	Du machst das großartig.
+You're early again.	Du kommst schon wieder zu früh.
+You're extroverted.	Du bist extrovertiert.
+You're extroverted.	Sie sind extrovertiert.
+You're extroverted.	Ihr seid extrovertiert.
+You're fascinating.	Sie sind bezaubernd.
+You're fascinating.	Du bist faszinierend.
+You're fashionable.	Du bist modebewusst.
+You're fashionable.	Sie sind modebewusst.
+You're fashionable.	Ihr seid modebewusst.
+You're hardworking.	Du bist fleißig.
+You're hardworking.	Sie sind fleißig.
+You're hardworking.	Ihr seid fleißig.
+You're incompetent.	Sie sind inkompetent.
+You're incompetent.	Du bist inkompetent.
+You're incompetent.	Ihr seid inkompetent.
+You're interesting.	Du bist interessant.
+You're interesting.	Ihr seid interessant.
+You're interesting.	Sie sind interessant.
+You're introverted.	Du bist introvertiert.
+You're introverted.	Sie sind introvertiert.
+You're introverted.	Ihr seid introvertiert.
+You're just a girl.	Du bist ja nur ein Mädchen.
+You're like family.	Du bist wie Familie.
+You're lying again.	Du lügst schon wieder.
+You're lying to me.	Du lügst mich an.
+You're lying to me.	Du belügst mich.
+You're lying to me.	Du lügst mich doch an!
+You're my neighbor.	Sie sind mein Nachbar.
+You're my neighbor.	Du bist mein Nachbar.
+You're my neighbor.	Du bist meine Nachbarin.
+You're my neighbor.	Sie sind meine Nachbarin.
+You're my princess.	Du bist meine Prinzessin.
+You're not a loser.	Du bist kein Verlierer.
+You're not dressed.	Du bist nicht angezogen.
+You're not dressed.	Sie sind nicht bekleidet.
+You're not dressed.	Ihr seid nicht angezogen.
+You're not helping.	Sie helfen nicht.
+You're not helping.	Du hilfst nicht.
+You're not helping.	Ihr helft nicht.
+You're not invited.	Du bist nicht eingeladen.
+You're not invited.	Sie sind nicht eingeladen.
+You're not like me.	Du bist nicht wie ich.
+You're not looking.	Du siehst ja gar nicht hin.
+You're not my type.	Du bist nicht mein Fall.
+You're not my type.	Du bist nicht mein Typ.
+You're not my wife.	Du bist nicht meine Frau.
+You're not special.	Du bist nichts Besonderes.
+You're not special.	Sie sind nichts Besonderes.
+You're on the list.	Du stehst auf der Liste.
+You're on your own.	Du bist auf dich allein gestellt.
+You're on your own.	Sie sind auf sich allein gestellt.
+You're persevering.	Du bist beharrlich.
+You're persevering.	Sie sind beharrlich.
+You're persevering.	Ihr seid beharrlich.
+You're predictable.	Du bist durchschaubar.
+You're pretty good.	Sie sind ziemlich gut.
+You're quite drunk.	Du bist ziemlich blau.
+You're quite drunk.	Ihr seid ziemlich besoffen.
+You're quite drunk.	Sie sind ziemlich betrunken.
+You're quite right.	Du hast völlig recht.
+You're quite smart.	Du bist sehr geschickt.
+You're quite smart.	Du bist sehr pfiffig.
+You're quite smart.	Du bist sehr klug.
+You're really cute.	Du bist ziemlich süß.
+You're really fast.	Du bist echt schnell.
+You're really good.	Du bist sehr gut.
+You're really nice.	Du bist sehr nett.
+You're replaceable.	Du bist ersetzbar.
+You're replaceable.	Ihr seid ersetzbar.
+You're replaceable.	Sie sind ersetzbar.
+You're right again.	Du hast wieder mal recht.
+You're right, dear.	Du hast recht, mein Schatz.
+You're so generous.	Du bist so großzügig.
+You're so pathetic.	Du bist so erbärmlich!
+You're so romantic.	Du bist so romantisch!
+You're so stubborn.	Du bist so was von stur.
+You're soaking wet.	Du bist klatschnass.
+You're soaking wet.	Sie sind klatschnass.
+You're soaking wet.	Ihr seid klatschnass.
+You're still green.	Du bist noch grün hinter den Ohren.
+You're still young.	Du bist noch jung.
+You're still young.	Sie sind noch jung.
+You're such a liar.	Du bist solch ein Lügner!
+You're such a liar.	Du bist solch eine Lügnerin!
+You're taking over.	Du übernimmst jetzt.
+You're the biggest.	Du bist der Größte.
+You're the dreamer.	Du bist der Träumer.
+You're the dreamer.	Sie sind der Träumer.
+You're the experts.	Ihr seid vom Fach.
+You're the teacher.	Du bist der Lehrer.
+You're the teacher.	Du bist die Lehrerin.
+You're too nervous.	Sie sind zu nervös.
+You're turning red.	Du wirst rot.
+You're turning red.	Sie werden rot.
+You're turning red.	Ihr werdet rot.
+You're unambitious.	Du hast keinen Ehrgeiz.
+You're unambitious.	Sie haben keinen Ehrgeiz.
+You're unambitious.	Ihr habt keinen Ehrgeiz.
+You're unnecessary.	Du bist entbehrlich.
+You're very boring.	Du bist sehr langweilig.
+You're very clever.	Du bist sehr klug.
+You're very clever.	Du bist sehr schlau.
+You're very humble.	Du bist sehr bescheiden.
+You're very humble.	Ihr seid sehr bescheiden.
+You're very humble.	Sie sind sehr bescheiden.
+You're very lonely.	Du bist sehr einsam.
+You're very modest.	Du bist sehr bescheiden.
+You're very pretty.	Du bist sehr schön.
+You're with me, OK?	Du kommst mit mir. Einverstanden?
+You've already won.	Du hast schon gewonnen.
+You've been warned.	Du bist gewarnt worden.
+You've been warned.	Sie sind gewarnt worden.
+You've been warned.	Ihr seid gewarnt worden.
+You've been warned.	Man hat Euch gewarnt.
+You've been warned.	Man hat Sie gewarnt.
+You've been warned.	Man hat dich gewarnt.
+You've betrayed me.	Du hast mich betrogen.
+You've got a fever.	Du hast Fieber.
+You've got an hour.	Du hast eine Stunde Zeit.
+You've got an hour.	Du hast eine Stunde.
+You've got my keys.	Du hast meine Schlüssel.
+You've got my keys.	Sie haben meine Schlüssel.
+You've got my vote.	Meine Stimme hast du.
+You've got my vote.	Du hast meine Stimme.
+You've got to hide.	Du musst dich verstecken.
+You've got to rest.	Du musst dich ausruhen.
+You've got to rest.	Sie müssen sich ausruhen.
+You've got to rest.	Ihr müsst euch ausruhen.
+You've got to rest.	Du musst dich erholen.
+You've lost weight.	Sie haben abgenommen.
+You've made my day.	Du hast meinen Tag gerettet.
+Your bath is ready.	Dein Bad ist fertig.
+Your bath is ready.	Euer Bad ist fertig.
+Your bath is ready.	Ihr Bad steht bereit.
+Your breath smells.	Du hast Mundgeruch.
+Your breath stinks.	Du hast Mundgeruch.
+Your breath stinks.	Dein Atem stinkt.
+Your kids are cute.	Deine Kinder sind süß.
+Your kids are cute.	Eure Kinder sind süß.
+Your lips are blue.	Du hast blaue Lippen.
+Your phone was off.	Dein Telefon war ausgeschaltet.
+Your place or mine?	Zu dir oder zu mir?
+Your room is dirty.	Dein Zimmer ist schmutzig.
+Your secret's safe.	Dein Geheimnis ist sicher.
+Your secret's safe.	Ihr Geheimnis ist sicher.
+Your secret's safe.	Euer Geheimnis ist sicher.
+Trust me, he said.	Vertraue mir, sagte er.
+"Who cares? ""I do."""	„Wen kümmert’s?“ – „Mich.“
+A cold wind blew in.	Ein kalter Wind wehte herein.
+A crocodile ate Tom.	Ein Krokodil hat Tom gefressen.
+A dog has four legs.	Ein Hund hat vier Beine.
+A golf ball hit Tom.	Ein Golfball hat Tom getroffen.
+A lion is an animal.	Der Löwe ist ein Tier.
+A lion is an animal.	Ein Löwe ist ein Tier.
+A nap would be good.	Ein Schläfchen wäre gut.
+A noise woke her up.	Ein Geräusch weckte sie auf.
+A nurse wears white.	Eine Krankenschwester trägt Weiß.
+A storm is imminent.	Ein Sturm zieht auf.
+A storm is imminent.	Ein Sturm zieht heran.
+A storm was brewing.	Eine Gewitter braute sich zusammen.
+A truck hit the dog.	Ein Lkw fuhr den Hund an.
+A whale is a mammal.	Wale sind Säugetiere.
+A window was broken.	Ein Fenster ging zu Bruch.
+A wolf attacked Tom.	Ein Wolf griff Tom an.
+Add a pinch of salt.	Eine Prise Salz hinzufügen.
+Advice is like salt.	Ratschläge sind wie Salz.
+All I have is books.	Alles was ich habe, sind Bücher.
+All I want is money.	Ich will nur Geld.
+All I want is money.	Ich will bloß Geld.
+All I want is money.	Alles, was ich will, ist Geld.
+All Tom does is eat.	Tom beschäftigt sich nur mit Essen.
+All is calm tonight.	Alles ist ruhig, diese Nacht.
+All is well with me.	Mir geht es rundum gut.
+All is well with me.	Es geht mir gut.
+All of us are happy.	Wir sind alle zufrieden.
+All of us are happy.	Wir sind alle glücklich.
+All of us should go.	Wir sollten alle hingehen.
+All sales are final.	Der Umtausch ist ausgeschlossen.
+Allow me to explain.	Lass mich erklären.
+Allow me to explain.	Lassen Sie mich erklären.
+Aluminum is a metal.	Aluminium ist ein Metall.
+Am I going to be OK?	Werde ich okay sein?
+Am I going too fast?	Gehe ich zu schnell?
+Am I imagining this?	Bilde ich mir das etwa ein?
+Am I older than you?	Bin ich älter als du?
+Am I older than you?	Bin ich älter als Sie?
+Am I older than you?	Bin ich älter als ihr?
+America is very big.	Amerika ist sehr groß.
+Answer me right now.	Antworte mir jetzt!
+Answer me right now.	Antwortet mir jetzt!
+Answer me right now.	Antworten Sie mir jetzt!
+Answer my questions.	Beantworte meine Fragen.
+Answer the question.	Beantworte die Frage.
+Answer the question.	Antworten Sie auf die Frage.
+Answer the question.	Antworte auf die Frage.
+Anybody can do that.	Jeder kann es machen.
+Anybody can do that.	Jeder ist in der Lage, dies zu tun.
+Anybody can do that.	Das kann jeder.
+Anybody can do that.	Jeder kann das machen.
+Anybody can do this.	Das kann jeder.
+Anybody want a beer?	Will jemand ein Bier?
+Anybody want a lift?	Möchte jemand mitfahren?
+Anyone can see that.	Das kann jeder sehen.
+Anyone can see that.	Jeder kann das sehen.
+Anything's possible.	Alles ist möglich.
+Are all swans white?	Sind alle Schwäne weiß?
+Are seats available?	Sind Plätze zu haben?
+Are the rumors true?	Stimmen die Gerüchte?
+Are there survivors?	Gibt es Überlebende?
+Are these all Tom's?	Gehören die alle Tom?
+Are these all yours?	Gehören die alle dir?
+Are they still here?	Sind sie noch hier?
+Are those new shoes?	Sind das neue Schuhe?
+Are those your bags?	Sind das deine Taschen?
+Are those your bags?	Sind das Ihre Taschen?
+Are those your bags?	Sind das eure Taschen?
+Are those your kids?	Sind das deine Kinder?
+Are we being chased?	Werden wir verfolgt?
+Are we going to win?	Werden wir gewinnen?
+Are we just friends?	Sind wir nur Freunde?
+Are we leaving soon?	Brechen wir bald auf?
+Are we ready for it?	Sind wir bereit dafür?
+Are we safe in here?	Sind wir hier drinnen sicher?
+Are you Tom Jackson?	Sind Sie Tom Hansen?
+Are you a Christian?	Bist du Christ?
+Are you a Christian?	Bist du Christin?
+Are you a Christian?	Sind Sie Christ?
+Are you a Christian?	Sind Sie Christin?
+Are you a foreigner?	Bist du Ausländer?
+Are you a foreigner?	Bist du Ausländerin?
+Are you a foreigner?	Sind Sie Ausländer?
+Are you a foreigner?	Sind Sie Ausländerin?
+Are you a good cook?	Kannst du gut kochen?
+Are you a policeman?	Sind Sie Polizist?
+Are you about ready?	Bist du allmählich fertig?
+Are you about ready?	Sind Sie allmählich fertig?
+Are you about ready?	Seid ihr allmählich fertig?
+Are you almost done?	Bist du fast fertig?
+Are you almost done?	Sind Sie fast fertig?
+Are you almost here?	Bist du gleich hier?
+Are you always busy?	Bist du immer so beschäftigt?
+Are you angry at me?	Bist du mir böse?
+Are you angry at me?	Seid ihr mir böse?
+Are you angry at me?	Sind Sie mir böse?
+Are you at home now?	Bist du jetzt zuhause?
+Are you avoiding me?	Gehst du mir aus dem Weg?
+Are you avoiding me?	Geht ihr mir aus dem Weg?
+Are you avoiding me?	Gehen Sie mir aus dem Weg?
+Are you comfortable?	Hast du es bequem?
+Are you comfortable?	Haben Sie es bequem?
+Are you comfortable?	Habt ihr es bequem?
+Are you coming down?	Kommst du herunter?
+Are you coming, Tom?	Kommst du, Tom?
+Are you coming, too?	Kommen Sie auch?
+Are you coming, too?	Kommst du auch?
+Are you enjoying it?	Gefällt euch das?
+Are you enjoying it?	Gefällt Ihnen das?
+Are you even trying?	Versuchst du’s überhaupt?
+Are you experienced?	Hast du Erfahrung?
+Are you from Boston?	Bist du aus Boston?
+Are you going to go?	Wirst du gehen?
+Are you guys crying?	Leute, weint ihr etwa?
+Are you guys hungry?	Habt ihr Hunger?
+Are you guys hungry?	Seid ihr hungrig?
+Are you ignoring me?	Ignorierst du mich?
+Are you imaginative?	Bist du fantasievoll?
+Are you imaginative?	Hast du Phantasie?
+Are you imaginative?	Habt ihr Phantasie?
+Are you imaginative?	Haben Sie Phantasie?
+Are you in any pain?	Tut dir etwas weh?
+Are you in pain now?	Haben Sie jetzt Schmerzen?
+Are you independent?	Bist du unabhängig?
+Are you lying to me?	Lügst du mich an?
+Are you married now?	Sind Sie jetzt verheiratet?
+Are you married now?	Bist du jetzt verheiratet?
+Are you off tonight?	Gehst du heute Abend fort?
+Are you on Facebook?	Sind Sie auf Facebook?
+Are you on Facebook?	Seid ihr auf Facebook?
+Are you on Facebook?	Bist du auf Facebook?
+Are you on Facebook?	Bist du bei Facebook?
+Are you on Facebook?	Sind Sie bei Facebook?
+Are you on Facebook?	Seid ihr bei Facebook?
+Are you on Facebook?	Hast du Facebook?
+Are you out of work?	Sind Sie ohne Arbeit?
+Are you out of work?	Sind Sie arbeitslos?
+Are you out of work?	Haben Sie keine Arbeit?
+Are you really busy?	Bist du wirklich beschäftigt?
+Are you really done?	Sind Sie wirklich fertig?
+Are you really sick?	Bist du wirklich krank?
+Are you really sick?	Sind Sie wirklich krank?
+Are you really sure?	Bist du dir wirklich sicher?
+Are you still alive?	Lebst du noch?
+Are you still angry?	Bist du immer noch böse?
+Are you still awake?	Bist du noch wach?
+Are you still bored?	Langweilst du dich immer noch?
+Are you still happy?	Bist du noch glücklich?
+Are you still there?	Bist du noch da?
+Are you still there?	Sind Sie noch da?
+Are you still there?	Seid ihr noch da?
+Are you still tired?	Bist du noch müde?
+Are you still upset?	Bist du noch immer verärgert?
+Are you still upset?	Bist du noch aufgebracht?
+Are you texting Tom?	Schreibst du Tom?
+Are you that stupid?	Bist du so doof?
+Are you that stupid?	Bist du so dumm?
+Are you thirsty now?	Hast du jetzt Durst?
+Are you two friends?	Seid ihr zwei befreundet?
+Are you up for that?	Bist du dafür bereit?
+Are you very hungry?	Bist du sehr hungrig?
+Are you warm enough?	Ist dir warm genug?
+Are you watching it?	Schaust du es dir an?
+Are you watching me?	Spionierst du mir nach?
+Are you watching me?	Überwachst du mich?
+Are you working now?	Arbeitest du jetzt gerade?
+Aren't you Canadian?	Seid ihr nicht Kanadier?
+Aren't you Canadian?	Bist du nicht Kanadier?
+Aren't you Catholic?	Sind Sie nicht katholisch?
+Aren't you a doctor?	Bist du nicht Arzt?
+Aren't you a doctor?	Bist du nicht Ärztin?
+Aren't you a lawyer?	Sind Sie nicht Rechtsanwalt?
+Aren't you a priest?	Sind Sie nicht Priester?
+Aren't you a singer?	Bist du nicht Sänger?
+Aren't you a singer?	Bist du nicht Sängerin?
+Aren't you brothers?	Seid ihr nicht Brüder?
+Aren't you going in?	Gehst du nicht hinein?
+Aren't you homesick?	Hast du kein Heimweh?
+Aren't you new here?	Bist du nicht neu hier?
+Aren't you new here?	Seid ihr nicht neu hier?
+Aren't you prepared?	Bist du nicht vorbereitet?
+Aren't you students?	Seid ihr nicht Schüler?
+Aren't you the boss?	Bist du nicht der Chef?
+Aren't you underage?	Bist du nicht noch minderjährig?
+Ask Tom how Mary is.	Frag Tom, wie Maria ist.
+Ask Tom to help you.	Bitte Tom darum, dass er dir hilft!
+Ask Tom where he is.	Frag Tom, wo er ist.
+At least we had fun.	Wenigstens hat es uns Spaß gemacht.
+Baby ducks are cute.	Entenküken sind süß.
+Baby lions are cute.	Löwenjunge sind süß.
+Bad habits die hard.	Schlechte Angewohnheiten sind nur schwer abzulegen.
+Bad habits die hard.	Schlechte Angewohnheiten sind Überlebenskünstler.
+Be careful in there.	Sei vorsichtig da drinnen!
+Be careful up there.	Sei vorsichtig da oben!
+Be careful up there.	Seien Sie vorsichtig da oben!
+Be gentle, but firm.	Sei sanft, aber bestimmt.
+Be nice to your mom.	Sei lieb zu deiner Mama!
+Be patient with Tom.	Sei geduldig gegen Tom!
+Be polite, but firm.	Sei höflich, doch bestimmt.
+Be polite, but firm.	Seid höflich, doch bestimmt.
+Be polite, but firm.	Seien Sie höflich, doch bestimmt.
+Be quiet and listen.	Seien Sie still und hören Sie zu.
+Be quiet and listen.	Seid still und hört zu.
+Believe in yourself.	Glaub an dich.
+Big girls don't cry.	Große Mädchen weinen nicht.
+Black is depressing.	Schwarz macht schwermütig.
+Black is depressing.	Schwarz ist bedrückend.
+Blow out the candle.	Pusten Sie die Kerze aus!
+Blow out the candle.	Puste die Kerze aus!
+Boil those potatoes.	Koche die Kartoffeln!
+Boil those potatoes.	Koche die Kartoffeln dort!
+Boston is overrated.	Boston wird überbewertet.
+Both Tom and I work.	Tom und ich, wir arbeiten beide.
+Breakfast is served.	Das Frühstück ist serviert.
+Bring it back to me.	Bring es mir zurück!
+Bring it back to me.	Bringen Sie es mir zurück!
+Bring me my clothes.	Bring mir meine Kleidung.
+Bring me my glasses.	Bring mir meine Brille.
+Bring me my glasses.	Bringt mir meine Brille.
+Bring your computer.	Bring deinen Rechner mit.
+Bring your swimsuit.	Bring einen Badeanzug mit.
+Burn all this stuff.	Verbrenn das ganze Zeug!
+But I don't want to.	Aber ich will nicht!
+But I wasn't afraid.	Aber ich hatte keine Angst.
+Can I call you back?	Kann ich dich zurückrufen?
+Can I call you back?	Kann ich Sie zurückrufen?
+Can I check in here?	Kann ich mich hier anmelden?
+Can I come with you?	Kann ich mich euch anschließen?
+Can I come with you?	Kann ich mich dir anschließen?
+Can I come with you?	Kann ich mich Ihnen anschließen?
+Can I do that again?	Kann ich das noch mal machen?
+Can I do that later?	Kann ich das später erledigen?
+Can I do this later?	Kann ich das später erledigen?
+Can I drive, please?	Kann ich fahren, bitte?
+Can I eat this cake?	Kann ich den Kuchen essen?
+Can I get a blanket?	Kann ich eine Decke bekommen?
+Can I go to bed now?	Darf ich jetzt ins Bett?
+Can I have a cookie?	Kann ich einen Keks haben?
+Can I have a cookie?	Kann ich ein Plätzchen haben?
+Can I have a moment?	Hast du kurz Zeit?
+Can I have a moment?	Haben sie kurz Zeit?
+Can I have a pillow?	Bekomme ich bitte ein Kissen?
+Can I say something?	Darf ich etwas sagen?
+Can I say something?	Kann ich etwas sagen?
+Can I see Tom today?	Kann ich Tom heute sehen?
+Can I see you again?	Kann ich dich nochmal sehen?
+Can I still make it?	Schaffe ich es noch?
+Can I talk with you?	Kann ich dich sprechen?
+Can I talk with you?	Kann ich Sie sprechen?
+Can I use this bike?	Kann ich das Fahrrad benutzen?
+Can I wash my hands?	Kann ich mir die Hände waschen?
+Can anybody hear me?	Kann mich jemand hören?
+Can anybody help me?	Kann mir jemand helfen?
+Can he speak French?	Kann er Französisch sprechen?
+Can he speak French?	Spricht er Französisch?
+Can someone help me?	Kann mir jemand helfen?
+Can we believe that?	Können wir das glauben?
+Can we believe them?	Können wir ihnen glauben?
+Can we count on you?	Können wir auf dich zählen?
+Can we count on you?	Können wir auf euch zählen?
+Can we count on you?	Können wir auf Sie zählen?
+Can we do that here?	Können wir das hier machen?
+Can we just go home?	Können wir einfach nach Hause gehen?
+Can we speak French?	Können wir Französisch sprechen?
+Can we take a break?	Können wir eine Pause machen?
+Can you afford that?	Kannst du dir das leisten?
+Can you bake a cake?	Kannst du einen Kuchen backen?
+Can you contact Tom?	Kannst du Tom kontaktieren?
+Can you contact Tom?	Könnt ihr mit Tom Kontakt aufnehmen?
+Can you contact Tom?	Können Sie sich mit Tom in Verbindung setzen?
+Can you cook a meal?	Können Sie kochen?
+Can you cook a meal?	Kannst du kochen?
+Can you do anything?	Kannst du irgend etwas tun?
+Can you drive a car?	Kannst du Auto fahren?
+Can you drive a car?	Kannst du ein Auto fahren?
+Can you explain why?	Kannst du erklären warum?
+Can you make copies?	Kannst du Kopien machen?
+Can you pick up Tom?	Kannst du Tom abholen?
+Can you pick up Tom?	Könnt ihr Tom abholen?
+Can you pick up Tom?	Können Sie Tom abholen?
+Can you play guitar?	Kannst du Gitarre spielen?
+Can you play guitar?	Könnt ihr Gitarre spielen?
+Can you play tennis?	Kannst du Tennis spielen?
+Can you please help?	Kannst du bitte helfen?
+Can you read Arabic?	Kannst du Arabisch lesen?
+Can you read French?	Kannst du Französisch lesen?
+Can you really swim?	Kannst du wirklich schwimmen?
+Can you repeat that?	Können Sie das wiederholen?
+Can you rub my back?	Kannst du mir den Rücken scheuern?
+Can you see the cat?	Kannst du die Katze sehen?
+Can you start today?	Kannst du heute anfangen?
+Can you still drive?	Können Sie noch fahren?
+Can you still drive?	Kannst du noch fahren?
+Can you swim at all?	Kannst du überhaupt schwimmen?
+Can you swim at all?	Könnt ihr überhaupt schwimmen?
+Can you swim at all?	Können Sie überhaupt schwimmen?
+Can you tell me how?	Kannst du mir verraten, wie?
+Can your wife drive?	Kann deine Frau Auto fahren?
+Can your wife drive?	Kann Ihre Frau Auto fahren?
+Can't you buy a car?	Kannst du dir kein Auto kaufen?
+Carry out my orders!	Führe meine Befehle aus!
+Carry out my orders!	Führt meine Befehle aus!
+Carry out my orders!	Führen Sie meine Befehle aus!
+Cash or credit card?	Bar oder mit Karte?
+Catch me if you can.	Fang mich, wenn du kannst.
+Change is important.	Veränderung ist wichtig.
+Change your clothes.	Zieh dich um.
+Cherish this moment.	Genieße diesen Moment!
+Chew your food well.	Kau dein Essen gründlich.
+Chew your food well.	Kauen Sie Ihr Essen gründlich.
+Chew your food well.	Kaut euer Essen gründlich.
+Chew your food well.	Gut kauen!
+Chivalry isn't dead.	Die Ritterlichkeit ist nicht gestorben.
+Christmas is coming.	Bald ist Weihnachten.
+Clear off the table.	Räum den Tisch ab.
+Clear off the table.	Räumt den Tisch ab.
+Clear off the table.	Räumen Sie den Tisch ab.
+Clocks measure time.	Uhren messen Zeit.
+Come again any time.	Komm jederzeit wieder.
+Come again any time.	Kommen Sie jederzeit wieder.
+Come again tomorrow.	Kommen Sie morgen wieder.
+Come again tomorrow.	Kommt morgen wieder.
+Come at two o'clock.	Komm um zwei Uhr!
+Come back in a week.	Komm in einer Woche noch mal wieder!
+Come early tomorrow.	Komm morgen früh vorbei.
+Come sit next to me.	Komm, setz dich neben mich!
+Competition is good.	Wettbewerb ist gut.
+Contact me tomorrow.	Kontaktiere mich morgen.
+Could it be a virus?	Könnte es sich um ein Virus handeln?
+Could we meet today?	Könnten wir uns heute treffen?
+Could you elaborate?	Könnten Sie das näher ausführen?
+Could you sign here?	Können Sie hier unterschreiben?
+Could you sign this?	Kannst du das hier unterschreiben?
+Could you sign this?	Können Sie das hier unterschreiben?
+Cucumbers are green.	Gurken sind grün.
+Cyprus is an island.	Zypern ist eine Insel.
+Dad bought a camera.	Papa hat einen Fotoapparat gekauft.
+Death is inevitable.	Der Tod ist unvermeidlich.
+Death is inevitable.	Der Tod ist unausweichlich.
+Delete that picture.	Lösche das Bild.
+Delete that picture.	Löscht das Bild.
+Delete that picture.	Löschen Sie das Bild.
+Demand is very high.	Der Bedarf ist sehr hoch.
+Destroy this temple.	Zerstört diesen Tempel.
+Destroy this temple.	Zerstöre diesen Tempel.
+Did I embarrass you?	Habe ich dich in Verlegenheit gebracht?
+Did I embarrass you?	Habe ich Sie in Verlegenheit gebracht?
+Did I lock the door?	Habe ich die Tür abgeschlossen?
+Did I mess up again?	Habe ich wieder Mist gebaut?
+Did I miss anything?	Habe ich etwas verpasst?
+Did I pass the test?	Habe ich den Test bestanden?
+Did I pass the test?	Habe ich die Prüfung bestanden?
+Did I pass the test?	Habe ich bestanden?
+Did I touch a nerve?	Habe ich eine empfindliche Stelle getroffen?
+Did I touch a nerve?	Habe ich einen empfindlichen Nerv getroffen?
+Did I touch a nerve?	Habe ich da eine empfindliche Stelle getroffen?
+Did I touch a nerve?	Habe ich da einen Nerv getroffen?
+Did Tom ask you out?	Wollte Tom mit dir ausgehen?
+Did Tom believe you?	Hat Tom dir geglaubt?
+Did Tom believe you?	Hat Tom euch geglaubt?
+Did Tom believe you?	Hat Tom Ihnen geglaubt?
+Did Tom contact you?	Hat Tom sich mit dir in Verbindung gesetzt?
+Did Tom contact you?	Hat Tom sich mit euch in Verbindung gesetzt?
+Did Tom contact you?	Hat Tom sich mit Ihnen in Verbindung gesetzt?
+Did Tom contact you?	Hat Tom dich kontaktiert?
+Did Tom contact you?	Hat Tom euch kontaktiert?
+Did Tom contact you?	Hat Tom Sie kontaktiert?
+Did Tom do anything?	Hat Tom irgendwas getan?
+Did Tom forgive you?	Hat dir Tom verziehen?
+Did Tom forgive you?	Hat euch Tom verziehen?
+Did Tom forgive you?	Hat Tom Ihnen verziehen?
+Did Tom have a plan?	Hatte Tom einen Plan?
+Did Tom have dinner?	Hat Tom etwas zu Abend gegessen?
+Did Tom hurt anyone?	Hat Tom jemandem wehgetan?
+Did Tom leave early?	Ist Tom früher gegangen?
+Did Tom lie to Mary?	Hat Tom Maria angelogen?
+Did Tom like Boston?	Hat es Tom in Boston gefallen?
+Did Tom purchase it?	Hat Tom das erworben?
+Did Tom talk to you?	Hat Tom mit dir gesprochen?
+Did Tom talk to you?	Hat Tom mit euch gesprochen?
+Did Tom talk to you?	Hat Tom mit Ihnen gesprochen?
+Did Tom tell anyone?	Hat Tom es jemandem gesagt?
+Did Tom yell at you?	Hat Tom dich angeschrien?
+Did Tom yell at you?	Hat Tom euch angeschrien?
+Did Tom yell at you?	Hat Tom Sie angeschrien?
+Did anybody see you?	Hat euch irgendwer gesehen?
+Did anyone phone me?	Hat mich jemand angerufen?
+Did anyone see that?	Hat das jemand gesehen?
+Did anyone tell Tom?	Hat es jemand Tom gesagt?
+Did everybody leave?	Sind alle gegangen?
+Did they come today?	Sind sie heute gekommen?
+Did they understand?	Haben sie es verstanden?
+Did you ask Tom why?	Hast du Tom nach dem Grund gefragt?
+Did you believe Tom?	Hat du Tom geglaubt?
+Did you believe Tom?	Habt ihr Tom geglaubt?
+Did you believe Tom?	Haben Sie Tom geglaubt?
+Did you bring rolls?	Hast du Brötchen mitgebracht?
+Did you bring rolls?	Haben Sie Brötchen mitgebracht?
+Did you bring rolls?	Habt ihr Brötchen mitgebracht?
+Did you bring yours?	Hast du deine mitgebracht?
+Did you bring yours?	Hast du deins mitgebracht?
+Did you bring yours?	Haben Sie Ihren mitgebracht?
+Did you bring yours?	Hast du deinen mitgebracht?
+Did you bring yours?	Haben Sie Ihres mitgebracht?
+Did you bring yours?	Haben Sie Ihre mitgebracht?
+Did you bring yours?	Habt ihr eure mitgebracht?
+Did you bring yours?	Habt ihr eures mitgebracht?
+Did you bring yours?	Habt ihr euren mitgebracht?
+Did you buy bananas?	Hast du Bananen gekauft?
+Did you buy bananas?	Habt ihr Bananen gekauft?
+Did you buy bananas?	Haben Sie Bananen gekauft?
+Did you buy flowers?	Habt ihr Blumen gekauft?
+Did you come by car?	Sind Sie mit dem Auto gekommen?
+Did you come by car?	Bist du mit dem Auto gekommen?
+Did you come by car?	Seid ihr mit dem Auto gekommen?
+Did you drink a lot?	Hast du viel getrunken?
+Did you drink a lot?	Habt ihr viel getrunken?
+Did you drink a lot?	Haben Sie viel getrunken?
+Did you fall asleep?	Bist du eingeschlafen?
+Did you fall asleep?	Seid ihr eingeschlafen?
+Did you fall asleep?	Sind Sie eingeschlafen?
+Did you get up late?	Bist du spät aufgestanden?
+Did you get up late?	Sind Sie spät aufgestanden?
+Did you hear it too?	Hast du das auch gehört?
+Did you hear it too?	Haben Sie das auch gehört?
+Did you hug anybody?	Hast du jemanden umarmt?
+Did you hug anybody?	Hast du irgendjemanden gedrückt?
+Did you just arrive?	Bist du gerade angekommen?
+Did you just arrive?	Sind Sie gerade angekommen?
+Did you just arrive?	Seid ihr gerade angekommen?
+Did you leave a tip?	Hast du ein Trinkgeld dagelassen?
+Did you like Boston?	Hat dir Boston gefallen?
+Did you like Boston?	Hat Ihnen Boston gefallen?
+Did you like Boston?	Hat euch Boston gefallen?
+Did you like Boston?	Hat es dir in Boston gefallen?
+Did you like Boston?	Hat es euch in Boston gefallen?
+Did you like Boston?	Hat es Ihnen in Boston gefallen?
+Did you make coffee?	Hast du Kaffee gekocht?
+Did you order pizza?	Hast du Pizza bestellt?
+Did you order pizza?	Habt ihr Pizza bestellt?
+Did you order pizza?	Haben Sie Pizza bestellt?
+Did you play tennis?	Hast du Tennis gespielt?
+Did you play tennis?	Spieltest du Tennis?
+Did you read it all?	Habt ihr alles gelesen?
+Did you read it all?	Hast du es ganz gelesen?
+Did you see anybody?	Hast du jemanden gesehen?
+Did you take a bath?	Hast du gebadet?
+Did you talk to Tom?	Hast du mit Tom gesprochen?
+Did you talk to Tom?	Haben Sie mit Tom gesprochen?
+Did you tell on Tom?	Hast du Tom verpetzt?
+Did you tell on Tom?	Habt ihr Tom verpetzt?
+Did you yell at Tom?	Hast du Tom angeschrien?
+Did you yell at Tom?	Habt ihr Tom angeschrien?
+Did you yell at Tom?	Haben Sie Tom angeschrien?
+Didn't Tom tell you?	Hat Tom es dir nicht gesagt?
+Didn't you call Tom?	Hast du nicht Tom angerufen?
+Didn't you know Tom?	Kanntest du Tom nicht?
+Didn't you know Tom?	Kanntet ihr Tom nicht?
+Didn't you know Tom?	Kannten Sie Tom nicht?
+Didn't you see that?	Hast du das nicht gesehen?
+Didn't you tell Tom?	Hast du Tom nicht davon erzählt?
+Disconnect the plug.	Ziehe den Stecker heraus!
+Disconnect the plug.	Ziehen Sie den Stecker!
+Divide this in half.	Teile dies in zwei Hälften!
+Do I curse too much?	Fluche ich zu viel?
+Do I detect sarcasm?	Höre ich da Sarkasmus?
+Do I detect sarcasm?	Höre ich da Sarkasmus raus?
+Do I detect sarcasm?	Vernehme ich da Sarkasmus?
+Do I have to go now?	Muss ich nun gehen?
+Do as you think fit.	Tu, was du für richtig hältst!
+Do exactly as I say.	Tun Sie genau, was ich Ihnen sage.
+Do exactly as I say.	Tu genau, was ich
+You can call me any time.	Du kannst mich jederzeit anrufen.
+You can call me any time.	Sie können mich jederzeit anrufen.
+You can come at any time.	Du kannst jederzeit kommen.
+You can come if you want.	Du kannst kommen, wenn du willst.
+You can dance, can't you?	Du kannst doch tanzen, oder?
+You can do it, can't you?	Du kannst das, nicht wahr?
+You can do it, can't you?	Du kannst das doch, oder?
+You can do that tomorrow.	Das kannst du morgen machen.
+You can do that tomorrow.	Das könnt ihr morgen machen.
+You can do that tomorrow.	Das können Sie morgen machen.
+You can do that yourself.	Du kannst das selbst tun.
+You can do what you want.	Du kannst machen, was du willst.
+You can have my sandwich.	Du kannst mein Sandwich haben.
+You can have my sandwich.	Sie können mein Sandwich haben.
+You can have my sandwich.	Ihr könnt mein Sandwich haben.
+You can leave that to me.	Das kannst du mir überlassen.
+You can only use it once.	Du kannst das nur einmal benutzen.
+You can only use it once.	Du kannst es nur einmal benutzen.
+You can only use it once.	Du kannst sie nur einmal benutzen.
+You can only use it once.	Du kannst ihn nur einmal benutzen.
+You can ski on that hill.	Du kannst auf jenem Hügel Ski laufen.
+You can stay at my house.	Du kannst bei mir unterkommen.
+You can stay at my house.	Ihr könnt bei mir unterkommen.
+You can stay at my house.	Sie können bei mir unterkommen.
+You can wait for me here.	Du kannst hier auf mich warten.
+You can wait for me here.	Ihr könnt hier auf mich warten.
+You can wait for me here.	Sie können hier auf mich warten.
+You can watch television.	Du kannst fernsehen.
+You can watch television.	Sie können fernsehen.
+You can watch television.	Ihr könnt fernsehen.
+You can't be too careful.	Man kann nicht vorsichtig genug sein.
+You can't buy that judge.	Du kannst jenen Richter nicht bestechen.
+You can't dance, can you?	Du kannst nicht tanzen, nicht wahr?
+You can't dance, can you?	Sie können nicht tanzen, nicht wahr?
+You can't erase the past.	Man kann das Vergangene nicht ausradieren.
+You can't force me to go.	Du kannst mich nicht zwingen, dahin zu gehen!
+You can't force us to go.	Du kannst uns nicht zwingen zu gehen.
+You can't give me orders.	Du kannst mir keine Befehle erteilen.
+You can't give me orders.	Sie können mir nichts befehlen.
+You can't give me orders.	Du kannst mir keine Vorschriften machen.
+You can't give up on Tom.	Du darfst Tom nicht aufgeben.
+You can't leave yet, Tom.	Du darfst noch nicht gehen, Tom!
+You can't leave yet, Tom.	Du kannst noch nicht gehen, Tom!
+You can't let Tom suffer.	Du kannst Tom nicht leiden lassen.
+You can't let Tom suffer.	Sie können Tom nicht leiden lassen.
+You can't let Tom suffer.	Ihr könnt Tom nicht leiden lassen.
+You can't live like that.	Du kannst so nicht leben.
+You can't live like this.	Du kannst so nicht leben.
+You can't rush this, Tom.	Du kannst das nicht überstürzen, Tom.
+You can't sell our piano!	Du kannst doch nicht unser Klavier verkaufen!
+You can't study too hard.	Man kann nicht fleißig genug studieren.
+You can't win every time.	Du kannst nicht immer gewinnen.
+You could do much better.	Das kannst du noch viel besser.
+You could've walked away.	Du hättest weggehen können.
+You could've walked away.	Ihr hättet weggehen können.
+You could've walked away.	Sie hätten weggehen können.
+You decide on what to do.	Du entscheidest, was gemacht wird.
+You did an excellent job.	Sie haben ausgezeichnete Arbeit geleistet.
+You did that really well.	Das hast du richtig gut gemacht.
+You didn't break the law.	Sie haben das Gesetz nicht gebrochen.
+You didn't eat very much.	Du hast aber nicht sehr viel gegessen.
+You didn't eat very much.	Ihr habt aber nicht sehr viel gegessen.
+You didn't eat very much.	Sie haben aber nicht sehr viel gegessen.
+You didn't have to dress.	Du hättest dich nicht schick machen müssen.
+You didn't have to leave.	Du musstest nicht gehen.
+You didn't let me answer.	Du hast mich nicht antworten lassen.
+You didn't let me answer.	Du hast mich nicht zu Wort kommen lassen.
+You didn't let me finish.	Du hast mich nicht ausreden lassen.
+You didn't let me finish.	Sie haben mich nicht ausreden lassen.
+You didn't make it clear.	Das hast du nicht deutlich gemacht.
+You didn't need to hurry.	Du hättest dich nicht beeilen müssen.
+You didn't need to hurry.	Ihr hättet euch nicht beeilen müssen.
+You didn't need to hurry.	Sie hätten Sich nicht beeilen müssen.
+You didn't pay attention.	Sie haben nicht aufgepasst.
+You didn't pay attention.	Du hast nicht aufgepasst.
+You didn't pay attention.	Ihr habt nicht aufgepasst.
+You don't get it, do you?	Du kapierst es nicht, was?
+You don't have any money.	Ein Geld hast du nicht mal.
+You don't have any proof.	Du hast nicht einen Beweis.
+You don't have much time.	Du hast nicht viel Zeit.
+You don't have much time.	Ihr habt nicht viel Zeit.
+You don't have the nerve.	Das wagst du nicht.
+You don't have the right.	Dazu hast du kein Recht.
+You don't have the right.	Du hast kein Recht dazu.
+You don't have to answer.	Du musst nicht antworten.
+You don't have to answer.	Sie brauchen nicht zu antworten.
+You don't have to answer.	Ihr braucht nicht zu antworten.
+You don't have to eat it.	Sie müssen es nicht essen.
+You don't listen, do you?	Du hörst nicht zu, oder?
+You don't look that busy.	Du siehst nicht so beschäftigt aus.
+You don't look that good.	Du siehst nicht so gut aus.
+You don't look too happy.	Du siehst nicht allzu glücklich aus.
+You don't look very good.	Du siehst nicht sehr gut aus.
+You don't need money now.	Sie brauchen jetzt kein Geld.
+You don't need money now.	Ihr braucht jetzt kein Geld.
+You don't need money now.	Du brauchst jetzt kein Geld.
+You don't really know me.	Du kennst mich nicht richtig.
+You don't really know me.	Sie kennen mich nicht richtig.
+You don't really love me.	Du liebst mich nicht wirklich.
+You don't seem convinced.	Du scheinst nicht überzeugt zu sein.
+You don't seem to get it.	Du scheinst es nicht zu begreifen.
+You don't seem to get it.	Ihr scheint es nicht zu begreifen.
+You don't seem to get it.	Sie scheinen es nicht zu begreifen.
+You don't sing very well.	Du singst nicht besonders gut.
+You don't sound like Tom.	Du klingst nicht wie Tom.
+You forgot your umbrella.	Du hast deinen Regenschirm vergessen.
+You gave away the ending.	Du hast das Ende verraten.
+You gave away the ending.	Sie haben das Ende verraten.
+You gave away the ending.	Ihr habt das Ende verraten.
+You got hurt, didn't you?	Du hast dich verletzt, nicht wahr?
+You got hurt, didn't you?	Ihr habt euch verletzt, nicht wahr?
+You got hurt, didn't you?	Sie haben sich verletzt, nicht wahr?
+You got what you deserve.	Du hast bekommen, was du verdient hast.
+You guys did a great job.	Ihr habt ganze Arbeit geleistet!
+You guys need each other.	Ihr braucht einander.
+You hate them, don't you?	Du hasst sie, oder?
+You have a beautiful dog.	Du hast einen schönen Hund.
+You have a beautiful dog.	Ihr habt einen schönen Hund.
+You have a beautiful dog.	Sie haben einen schönen Hund.
+You have a bright future.	Du hast eine glänzende Zukunft.
+You have a gum infection.	Sie haben entzündetes Zahnfleisch.
+You have a pretty garden.	Du hast einen schönen Garten.
+You have lots of friends.	Du hast jede Menge Freunde.
+You have my full support.	Du hast meine volle Unterstützung.
+You have my full support.	Ihr habt meine volle Unterstützung.
+You have my full support.	Sie haben meine volle Unterstützung.
+You have my word on that.	Du hast mein Wort dazu.
+You have no idea, do you?	Du hast keine Ahnung, oder?
+You have no new messages.	Sie haben keine neuen Nachrichten.
+You have no other choice.	Du hast keine andere Wahl.
+You have nothing to fear.	Du hast nichts zu befürchten.
+You have nothing to lose.	Du hast nichts zu verlieren.
+You have taught him well.	Du hast ihn gut unterwiesen.
+You have taught him well.	Sie haben ihn gut unterwiesen.
+You have taught him well.	Du hast ihm viel beigebracht.
+You have taught him well.	Sie haben ihm viel beigebracht.
+You have thirty messages.	Sie haben dreißig Nachrichten.
+You have to come quickly.	Du musst schnell kommen.
+You have to come with me.	Sie müssen mit mir kommen.
+You have to come with me.	Ihr müsst mit mir kommen.
+You have to come with us.	Du musst mit uns kommen.
+You have to get up early.	Du musst früh aufstehen.
+You have to go on living.	Du musst weiterleben.
+You have to leave Boston.	Du musst Boston verlassen.
+You have to leave Boston.	Sie müssen Boston verlassen.
+You have to leave Boston.	Du musst aus Boston abreisen.
+You have to listen to me.	Du musst mir zuhören.
+You have to obey the law.	Man muss das Gesetz befolgen.
+You have to study harder.	Du musst mehr lernen.
+You have to wait in line.	Sie müssen sich anstellen.
+You have tons of friends.	Du hast jede Menge Freunde.
+You haven't changed much.	Du hast dich kaum verändert.
+You haven't got a chance.	Du hast keine Chance.
+You just can't ignore it.	Du kannst das nicht einfach ignorieren.
+You just can't ignore it.	Ihr könnt das nicht einfach ignorieren.
+You just can't ignore it.	Sie können das nicht einfach ignorieren.
+You just proved my point.	Du hast gerade bewiesen, dass ich recht habe.
+You knew Tom, didn't you?	Du kanntest Tom, oder?
+You know I hate meetings.	Du weißt doch, dass ich Sitzungen hasse.
+You know that I like you.	Du weißt, dass ich dich mag.
+You know that isn't true.	Du weißt, das ist nicht wahr.
+You know that isn't true.	Du weißt, dass das nicht stimmt.
+You know that isn't true.	Ihr wisst, dass das nicht stimmt.
+You know that isn't true.	Sie wissen, dass das nicht stimmt.
+You know that's not true.	Du weißt, dass das nicht stimmt.
+You know that's not true.	Ihr wisst, dass das nicht stimmt.
+You know that's not true.	Sie wissen, dass das nicht stimmt.
+You know that, don't you?	Das weißt du doch, oder?
+You know this isn't fair.	Du weißt, dass das nicht fair ist.
+You left the fridge open.	Du hast den Kühlschrank offengelassen!
+You like that, don't you?	Das gefällt dir, oder?
+You like that, don't you?	Das gefällt euch, oder?
+You like that, don't you?	Das gefällt Ihnen, oder?
+You live here, don't you?	Du lebst hier, nicht wahr?
+You live here, don't you?	Du wohnst hier, nicht wahr?
+You look different today.	Du siehst heute anders aus.
+You look like Tom's wife.	Du siehst aus wie Toms Ehefrau.
+You look like an actress.	Du siehst wie eine Schauspielerin aus.
+You look much better now.	Du siehst jetzt viel besser aus.
+You look really familiar.	Du kommst mir sehr bekannt vor.
+You look really gorgeous.	Du siehst wirklich großartig aus.
+You look really gorgeous.	Du siehst wirklich umwerfend aus.
+You look very thoughtful.	Du siehst sehr nachdenklich aus.
+You looked really scared.	Du sahst sehr verängstigt aus.
+You made a good decision.	Sie haben eine gute Entscheidung getroffen.
+You made a good decision.	Ihr habt eine gute Entscheidung getroffen.
+You made a good decision.	Du hast eine gute Entscheidung getroffen.
+You made a wise decision.	Du hast eine weise Entscheidung getroffen.
+You made a wise decision.	Sie haben eine weise Entscheidung getroffen.
+You made a wise decision.	Ihr habt eine weise Entscheidung getroffen.
+You made me lose my mind.	Du hast mir den Kopf verdreht.
+You made me lose my mind.	Du hast mich um den Verstand gebracht.
+You made your mother cry.	Du hast deine Mutter zum Weinen gebracht.
+You make it look so easy.	Bei dir sieht es so einfach aus.
+You make me very nervous.	Du machst mich sehr nervös.
+You managed it after all.	Du hast es doch geschafft.
+You may come if you like.	Du kannst kommen, wenn du willst.
+You may come if you like.	Sie können kommen, wenn Sie mögen.
+You may go if you choose.	Wenn Sie wollen, können Sie gehen.
+You may not want to know.	Sie möchten es vielleicht nicht wissen.
+You might try asking Tom.	Vielleicht solltest du Tom fragen.
+You might've heard of it.	Du hast vielleicht davon gehört.
+You missed the best part.	Du hast das Beste verpasst.
+You must answer honestly.	Du musst ehrlich antworten.
+You must be Tom's mother.	Sie müssen Toms Mutter sein.
+You must be here by five.	Um fünf musst du hier sein.
+You must be more patient.	Du musst geduldiger sein.
+You must be more patient.	Sie müssen geduldiger sein.
+You must be really tired.	Du musst sehr müde sein.
+You must clean your room.	Du musst dein Zimmer sauber machen.
+You must clear the table.	Du musst den Tisch abräumen.
+You must face your fears.	Du musst dich deinen Ängsten stellen.
+You must face your fears.	Sie müssen sich Ihren Ängsten stellen.
+You must get to know Tom.	Du musst unbedingt Tom kennenlernen.
+You must not stay in bed.	Du darfst nicht im Bett bleiben.
+You must not stay in bed.	Sie dürfen nicht im Bett bleiben.
+You must not stay in bed.	Ihr dürft nicht im Bett bleiben.
+You must not talk to him.	Du darfst nicht mit ihm reden.
+You must really be tired.	Du musst wirklich müde sein.
+You must write something.	Du musst was schreiben.
+You must've dropped them.	Die müssen dir runtergefallen sein.
+You need a change of air.	Du brauchst eine Luftveränderung.
+You need to buy a ticket.	Du musst eine Fahrkarte lösen.
+You need to learn French.	Du musst Französisch lernen.
+You need to learn French.	Ihr müsst Französisch lernen.
+You need to learn French.	Sie müssen Französisch lernen.
+You need to stop smoking.	Du musst aufhören zu rauchen!
+You need to stop talking.	Du musst jetzt aber mal ruhig sein.
+You need to study harder.	Du musst fleißiger lernen.
+You needn't explain that.	Das brauchst du nicht zu erklären.
+You never change, do you?	Du änderst dich nie, oder?
+You never spoke about it.	Sie haben darüber nie gesprochen.
+You never spoke about it.	Ihr habt darüber nie gesprochen.
+You never stood a chance.	Du hattest nie eine Chance.
+You ought to know better.	Du solltest es besser wissen.
+You owe me three dollars.	Du schuldest mir drei Dollar.
+You said I was beautiful.	Du nanntest mich schön.
+You say that to everyone.	Das sagst du zu jedem.
+You seem a long way away.	Ihr scheint weit weg zu sein.
+You should ask Tom first.	Du solltest erst Tom fragen.
+You should ask Tom first.	Sie sollten erst Tom fragen.
+You should ask Tom first.	Ihr solltet erst Tom fragen.
+You should be very happy.	Du solltest sehr glücklich sein.
+You should eat something.	Du solltest etwas essen.
+You should eat something.	Sie sollten etwas essen.
+You should get a haircut.	Du musst aber mal zum Friseur!
+You should get more rest.	Du solltest dich noch mehr ausruhen.
+You should get some rest.	Du solltest dir etwas Ruhe gönnen.
+You should get some rest.	Sie sollten sich etwas Ruhe gönnen.
+You should go home early.	Du solltest früher nach Hause gehen.
+You should go to bed now.	Du solltest jetzt ins Bett gehen.
+You should have told him.	Du hättest es ihm sagen sollen.
+You should hire a lawyer.	Du solltest dir einen Anwalt nehmen.
+You should hire a lawyer.	Sie sollten sich einen Anwalt nehmen.
+You should hire a lawyer.	Ihr solltet euch einen Anwalt nehmen.
+You should know yourself.	Du solltest dich kennen.
+You should leave at once.	Du solltest sofort gehen.
+You should leave at once.	Sie sollten sofort gehen.
+You should leave at once.	Ihr solltet sofort gehen.
+You should leave at once.	Du solltest sofort weg von hier.
+You should leave at once.	Sie sollten sofort weg von hier.
+You should leave at once.	Ihr solltet sofort weg von hier.
+You should listen to him.	Du solltest auf ihn hören.
+You should listen to him.	Ihr solltet auf ihn hören.
+You should listen to him.	Sie sollten auf ihn hören.
+You should not talk here.	Sie sollten hier nicht reden.
+You should not trust him.	Man darf ihm nicht trauen.
+You should not trust him.	Man kann ihm nicht trauen.
+You should pay attention.	Du solltest achtgeben.
+You should pay attention.	Ihr solltet achtgeben.
+You should pay attention.	Sie sollten achtgeben.
+You should play football.	Du solltest Fußball spielen.
+You should play football.	Du solltest Football spielen.
+You should stop drinking.	Du solltest mit dem Trinken aufhören.
+You should take a shower.	Du solltest duschen.
+You should tell Tom that.	Das solltest du Tom sagen.
+You should tell Tom that.	Das solltet ihr Tom sagen.
+You should tell Tom that.	Das sollten Sie Tom sagen.
+You should wash your car.	Du solltest dein Auto waschen.
+You should wash your car.	Sie sollten Ihr Auto waschen.
+You should wash your car.	Du solltest mal deinen Wagen waschen.
+You should write a novel.	Du solltest einen Roman schreiben.
+You should write a novel.	Sie sollten einen Roman schreiben.
+You shouldn't go to work.	Du solltest nicht zur Arbeit gehen.
+You shouldn't tease dogs.	Hunde sollte man nicht ärgern.
+You sound a lot like Tom.	Du klingst fast so wie Tom.
+You speak fluent English.	Du sprichst fließend Englisch.
+You spend too much money.	Du gibst zu viel Geld aus.
+You still look surprised.	Du siehst immer noch überrascht aus.
+You swept me off my feet.	Du hast mir den Kopf verdreht.
+You told me to come here.	Du sagtest mir, ich solle herkommen.
+You took advantage of me.	Du hast mich ausgenutzt.
+You took advantage of me.	Ihr habt mich ausgenutzt.
+You took advantage of me.	Sie haben mich ausgenutzt.
+You were right about Tom.	Du hattest recht, was Tom betrifft.
+You were right after all.	Du hattest dann doch recht.
+You were right after all.	Schließlich hattest du recht.
+You were very kind to us.	Du warst sehr freundlich zu uns.
+You will be safe with me.	Du wirst bei mir sicher sein.
+You won't be on your own.	Du wirst nicht auf dich allein gestellt sein.
+You won't catch anything.	Du wirst nichts fangen.
+You won't catch anything.	Ihr werdet nichts fangen.
+You won't catch anything.	Sie werden nichts fangen.
+You won, fair and square.	Du hast gewonnen, klar und deutlich.
+You'd be the one to know.	Du wärest derjenige, der es wüsste.
+You'd better do that now.	Das machst du besser gleich.
+You'd better leave early.	Du gehst besser früher.
+You'd better relax a bit.	Du solltest dich lieber etwas entspannen.
+You'd better relax a bit.	Ihr solltet euch besser etwas entspannen.
+You'd better relax a bit.	Sie täten besser daran, sich etwas zu entspannen.
+You'd better stay in bed.	Du bleibst besser im Bett.
+You'd better stay in bed.	Ihr bleibt besser im Bett.
+You'd better stay in bed.	Sie bleiben besser im Bett.
+You'd do the same for me.	Du hättest für mich das Gleiche getan.
+You'd make a good lawyer.	Du wärest ein guter Anwalt.
+You'll do whatever I say.	Du wirst tun, was ich sage.
+You'll find nothing here.	Hier werden Sie nichts finden.
+You'll find nothing here.	Hier wirst du nichts finden.
+You'll have a rough time.	Du wirst es nicht leicht haben.
+You'll have a rough time.	Ihr werdet es nicht leicht haben.
+You'll have a rough time.	Sie werden es nicht leicht haben.
+You'll have to come here.	Du musst hierher kommen.
+You'll need a flashlight.	Du wirst eine Taschenlampe brauchen.
+You'll need a flashlight.	Sie werden eine Taschenlampe brauchen.
+You'll need a flashlight.	Ihr werdet eine Taschenlampe brauchen.
+You'll never regret this.	Sie werden das nie bereuen.
+You'll pay for this, Tom.	Dafür wirst du bezahlen, Tom!
+You'll regret it someday.	Das wirst du eines Tages bereuen.
+You're a beautiful woman.	Du bist eine schöne Frau.
+You're a good journalist.	Du bist ein guter Journalist.
+You're a really bad liar.	Du bist ein ziemlich schlechter Lügner.
+You're a terrible dancer.	Du bist ein schrecklicher Tänzer.
+You're a terrible dancer.	Sie sind ein schrecklicher Tänzer.
+You're a terrible dancer.	Du bist eine schreckliche Tänzerin.
+You're a terrible person.	Du bist ein schrecklicher Mensch!
+You're a useless husband.	Du bist als Ehemann nicht zu gebrauchen.
+You're a very bad person.	Sie sind ein sehr schlechter Mensch.
+You're a wonderful woman.	Du bist eine wunderbare Frau!
+You're a wonderful woman.	Sie sind eine wunderbare Frau!
+You're almost never home.	Sie sind fast nie zu Hause.
+You're almost never home.	Du bist fast nie zu Hause.
+You're an absolute idiot.	Du bist ein totaler Idiot.
+You're an excellent liar.	Du bist ein hervorragender Lügner.
+You're angry, aren't you?	Du bist wütend, oder?
+You're blocking my light.	Du stehst mir im Licht.
+You're busy all the time.	Du bist immer beschäftigt.
+You're early, aren't you?	Du bist früh dran, oder?
+You're embarrassing them.	Du machst sie verlegen.
+You're full of surprises.	Du bist voller Überraschungen.
+You're going to do great.	Du wirst es großartig machen.
+You're going to get cold.	Euch wird es kalt werden.
+You're going to like Tom.	Tom wird dir sympathisch sein.
+You're happy, aren't you?	Du bist glücklich, nicht wahr?
+You're in over your head.	Du steckst bis über beide Ohren drin!
+You're in safe hands now.	Du bist nun in sicheren Händen.
+You're making me nervous.	Du machst mich nervös.
+You're not a nice person.	Du bist kein netter Mensch.
+You're not as poor as me.	Du bist nicht so arm wie ich.
+You're not my girlfriend.	Du bist nicht meine Freundin.
+You're not rich, are you?	Du bist nicht reich, oder?
+You're not young anymore.	Du bist nicht mehr jung.
+You're not young anymore.	Ihr seid nicht mehr jung.
+You're not young anymore.	Sie sind nicht mehr jung.
+You're on the wrong road.	Du bist auf der falschen Straße.
+You're on the wrong road.	Sie sind auf der falschen Straße.
+You're on the wrong road.	Ihr seid auf der falschen Straße.
+You're partially correct.	Du liegst teilweise richtig.
+You're probably mistaken.	Du irrst dich wahrscheinlich.
+You're probably mistaken.	Ihr irrt euch wahrscheinlich.
+You're probably mistaken.	Sie irren sich wahrscheinlich.
+You're really incredible.	Du bist echt unglaublich.
+You're really incredible.	Ihr seid echt unglaublich.
+You're really incredible.	Sie sind echt unglaublich.
+You're smarter than I am.	Du bist klüger als ich.
+You're spoiling the mood.	Du verdirbst die Stimmung.
+You're strange sometimes.	Manchmal bist du komisch.
+You're such a mama's boy.	Du bist so ein Mamasöhnchen!
+You're the best dad ever.	Du bist der beste Papa auf der Welt!
+You're the best dad ever.	Du bist der beste Papa aller Zeiten!
+You're the reason I came.	Du bist der Grund, warum ich gekommen bin.
+You're tired, aren't you?	Du bist müde, nicht wahr?
+You're tired, aren't you?	Du bist bestimmt müde.
+You're tired, aren't you?	Sie sind müde, oder?
+You're tired, aren't you?	Ihr seid müde, oder?
+You're tired, aren't you?	Sie sind müde, nicht wahr?
+You're twisting my words.	Du drehst mir das Wort im Munde herum.
+You're twisting my words.	Sie drehen mir das Wort im Munde herum.
+You're very good at that.	Du bist sehr gut darin.
+You're very good at this.	Du bist sehr gut darin.
+You're very good-looking.	Du siehst sehr gut aus.
+You're wasting your time.	Du verschwendest deine Zeit.
+You're worrying too much.	Du machst dir zu viele Sorgen.
+You're worrying too much.	Sie machen sich zu viele Sorgen.
+You're worrying too much.	Ihr macht euch zu viele Sorgen.
+You've already done that.	Das hast du schon gemacht.
+You've already forgotten.	Du hast es schon vergessen.
+You've arrived too early.	Sie sind zu früh gekommen.
+You've been a great help.	Du warst mir eine große Hilfe.
+You've been a great help.	Ihr wart mir eine große Hilfe.
+You've been a great help.	Sie waren mir eine große Hilfe.
+You've been a great help.	Du warst uns eine große Hilfe.
+You've been a great help.	Ihr wart uns eine große Hilfe.
+You've been a great help.	Sie waren uns eine große Hilfe.
+You've been very helpful.	Sie waren eine große Hilfe.
+You've been very helpful.	Ihr wart eine große Hilfe.
+You've been very helpful.	Du warst eine große Hilfe.
+You've been very helpful.	Sie haben mir sehr geholfen.
+You've brightened my day.	Du hast mir den Tag versüßt.
+You've done that already.	Das hast du schon getan.
+You've got a big problem.	Du hast ein großes Problem.
+You've got a big problem.	Du hast ein gewaltiges Problem.
+You've got a lot of guts.	Du hast ganz schön Mumm.
+You've got three minutes.	Du hast drei Minuten.
+You've got three seconds.	Du hast drei Sekunden.
+You've got to be careful.	Du musst vorsichtig sein.
+You've got to be kidding!	Das kann doch nur ein Witz sein!
+You've got to be on time.	Du musst pünktlich sein.
+You've got to believe me.	Du musst mir glauben.
+You've got to believe me.	Ihr müsst mir glauben.
+You've got to believe me.	Sie müssen mir glauben.
+You've got to stay awake.	Du musst wach bleiben.
+You've got to stay awake.	Ihr müsst wach bleiben.
+You've got to stay awake.	Sie müssen wach bleiben.
+You've got to wait a bit.	Ihr werdet etwas warten müssen.
+You've lied to me before.	Du hast mich schon einmal belogen.
+You've lost your marbles.	Du hast nicht alle Tassen im Schrank.
+You've set a bad example.	Du hast ein schlechtes Beispiel abgegeben.
+You've set a bad example.	Sie haben ein schlechtes Beispiel abgegeben.
+You've slept a long time.	Du hast lange geschlafen.
+You've spilt your coffee.	Du hast deinen Kaffee verschüttet.
+You've taught me so much.	Du hast mir so vieles beigebracht.
+You've wasted your money.	Du hast dein Geld vergeudet.
+Your French has improved.	Dein Französisch ist besser geworden.
+Your French is improving.	Dein Französisch wird besser.
+Your French is improving.	Das Französisch verbessert sich.
+Your French is very good.	Sie sprechen aber gut Französisch!
+Your book is on the desk.	Dein Buch ist auf dem Schreibtisch.
+Your book is on the desk.	Dein Buch befindet sich auf dem Schreibtisch.
+Your book is upside down.	Dein Buch steht auf dem Kopf.
+Your book is upside down.	Dein Buch ist verkehrt herum.
+Your cellphone's ringing.	Dein Mobiltelefon klingelt.
+Your cooking smells good.	Was du da kochst, riecht aber gut!
+Your criticism is unfair.	Deine Kritik ist ungerecht.
+Your father won't buy it.	Dein Vater wird es nicht kaufen.
+Your food's getting cold.	Dein Essen wird kalt.
+Your forehead's bleeding.	Deine Stirn blutet.
+Your forehead's bleeding.	Ihre Stirn blutet.
+Your hair will grow back.	Dein Haar wird nachwachsen.
+Your hair will grow back.	Ihr Haar wird nachwachsen.
+Your hair's not even wet.	Deine Haare sind nicht einmal nass.
+Your room number, please.	Ihre Zimmernummer, bitte?
+Your shirt is inside out.	Du hast das Hemd auf links an.
+Your telephone's ringing.	Dein Telefon klingelt.
+Your things are all here.	Deine Sachen sind alle hier.
+Your things are all here.	Eure Sachen sind alle hier.
+Your things are all here.	Ihre Sachen sind alle hier.
+Your tie has come undone.	Dein Schlips hat sich gelöst.
+Your tie has come undone.	Ihr Schlips hat sich gelöst.
+Your time is running out.	Deine Zeit läuft ab.
+Your time is running out.	Eure Zeit läuft ab.
+Your time is running out.	Ihre Zeit läuft ab.
+2013 was a difficult year.	2013 war ein schweres Jahr.
+"Did it help? ""A little."""	„Hat’s geholfen?“ – „Ein bisschen.“
+"Do you have a dog? ""No."""	„Hast du einen Hund?“ – „Nein.“
+"What's wrong? ""Nothing."""	„Was ist los?“ – „Nichts.“
+"Where's Tom? ""Beats me."""	„Wo ist Tom?“ – „Null Ahnung.“
+A bird flew into the room.	Ein Vogel flog ins Zimmer.
+A burnt child dreads fire.	Gebrannte Kinder scheuen das Feuer.
+A burnt child dreads fire.	Ein gebranntes Kind scheut das Feuer.
+A button came off my coat.	Von meinem Mantel ist ein Knopf abgegangen.
+A cat can see in the dark.	Katzen können im Dunkeln sehen.
+A cat is lying in the sun.	Eine Katze liegt in der Sonne.
+A cold bath refreshed him.	Ein kaltes Bad erfrischte ihn.
+A crocodile has eaten Tom.	Ein Krokodil hat Tom gefressen.
+A crocodile has eaten Tom.	Tom wurde von einem Krokodil gefressen.
+A dog bit me this morning.	Ein Hund hat mich heute Morgen gebissen.
+A dog can see in the dark.	Ein Hund kann im Dunkeln sehen.
+A few days later, he came.	Ein paar Tage später kam er.
+A fork fell off the table.	Eine Gabel ist vom Tisch gefallen.
+A gentle rain was falling.	Es fiel ein sanfter Regen.
+A gentle wind was blowing.	Es wehte ein sanfter Wind.
+A girl appeared before me.	Ein Mädchen erschien vor mir.
+A girl asked Tom to dance.	Ein Mädchen forderte Tom zum Tanz.
+A girl stood there crying.	Dort stand weinend ein Mädchen.
+A girl stood there crying.	Ein Mädchen stand weinend da.
+A gun might come in handy.	Eine Waffe könnte gelegen kommen.
+A hint from you is enough.	Ein Wink von dir genügt.
+A horse can run very fast.	Ein Pferd kann sehr schnell rennen.
+A is 5 times as long as B.	A ist fünfmal so lang wie B.
+A lot can happen in a day.	Im Laufe eines Tages kann viel passieren.
+A man like me needs a hat.	Ein Mann wie ich braucht einen Hut.
+A mango ice cream, please.	Ein Mangoeis bitte.
+A minute is sixty seconds.	Eine Minute besteht aus sechzig Sekunden.
+A nail punctured the tire.	Ein Nagel durchlöcherte den Reifen.
+A penny for your thoughts.	Ich wüsste zu gern, was du gerade denkst.
+A penny for your thoughts.	Ich wüsste zu gern, was ihr gerade denkt.
+A penny for your thoughts.	Ich wüsste zu gern, was Sie gerade denken.
+A policeman came up to me.	Ein Polizist kam auf mich zu.
+A rat ran across the road.	Eine Ratte lief über die Straße.
+A stranger approached him.	Ein Fremder näherte sich ihm.
+A strong wind was blowing.	Es blies ein kräftiger Wind.
+A wood floor is beautiful.	Ein Holzfußboden ist schön.
+A year has already passed.	Ein Jahr ist schon um.
+Actually, that isn't true.	Das ist eigentlich nicht wahr.
+Add more salt to the soup.	Gib mehr Salz in die Suppe.
+Air is a mixture of gases.	Luft ist eine Mischung aus Gasen.
+Alcohol damages the liver.	Alkohol macht die Leber kaputt.
+All of the buses are full.	Alle Busse sind voll.
+All of us plan to do that.	Wir haben alle vor, das zu tun.
+All the benches are taken.	Alle Bänke sind besetzt.
+All the boys were dancing.	Alle Jungen tanzten.
+All the boys were yelling.	Sämtliche Jungen schrien.
+All the kids were dancing.	Alle Kinder tanzten.
+All the windows were open.	Alle Fenster standen offen.
+All those things are true.	Das ist alles wahr.
+All we can do now is wait.	Alles, was wir nun machen können, ist zu warten.
+All you can do is to wait.	Alles was du tun kannst ist warten.
+All you had to do was ask.	Du hättest nur zu fragen brauchen.
+All you have to do is ask.	Du brauchst nur zu fragen.
+All you have to do is ask.	Ihr braucht nur zu fragen.
+All you have to do is ask.	Sie brauchen nur zu fragen.
+All's well that ends well.	Ende gut, alles gut.
+Almost all girls are kind.	Fast alle Mädchen sind nett.
+Almost everyone was happy.	Fast alle waren zufrieden.
+Am I responsible for this?	Bin ich dafür zuständig?
+Am I speaking too quickly?	Spreche ich zu schnell?
+Am I still in charge here?	Habe ich hier noch die Leitung inne?
+Am I still your boyfriend?	Bin ich noch dein Freund?
+Am I supposed to eat this?	Soll ich das hier essen?
+Am I under suspicion here?	Stehe ich hier unter Verdacht?
+An accident just happened.	Gerade ist ein Unfall passiert.
+And just who might you be?	Wer bist du denn bitte schön?
+And then, what did you do?	Und was hast du dann gemacht?
+Any child can answer that.	Jedes Kind kann das beantworten.
+Any one of us could do it.	Jeder von uns könnte das.
+Anyone can make a mistake.	Jeder macht mal einen Fehler.
+Anyone can make a mistake.	Jeder kann einen Fehler machen.
+Anyone could have made it.	Das hätte jeder schaffen können.
+Anyone is welcome to join.	Jeder darf sich gerne beteiligen.
+Anything can go in a stew.	In einen Eintopf kann alles.
+Anything can happen on TV.	Im Fernsehen ist alles möglich.
+Anything might happen now.	Es kann jetzt alles passieren.
+Anyway, it all worked out.	Jedenfalls hat alles hingehaut.
+Appearances are deceiving.	Der Schein trügt.
+Apples are the best fruit.	Äpfel sind die besten Früchte.
+Are Tom and John brothers?	Sind Tom und Johannes Brüder?
+Are Tom and Mary with you?	Sind Tom und Maria bei dir?
+Are all these books yours?	Gehören alle diese Bücher dir?
+Are all these books yours?	Gehören alle diese Bücher Ihnen?
+Are oranges always orange?	Sind Orangen immer orange?
+Are oranges always orange?	Sind Apfelsinen immer orange?
+Are oysters in season now?	Haben Austern gerade Saison?
+Are these all Tom's books?	Sind das alles Toms Bücher?
+Are these notebooks yours?	Sind das deine Notitzbücher?
+Are they really Canadians?	Sind das echt Kanadier?
+Are those eggs free-range?	Sind das Eier von freilaufenden Hühnern?
+Are you a college student?	Studierst du?
+Are you a college student?	Bist du Student an einer Hochschule?
+Are you a member of a gym?	Bist du Mitglied in einem Fitnessstudio?
+Are you afraid of heights?	Hast du Höhenangst?
+Are you afraid of silence?	Hast du Angst vor Stille?
+Are you afraid of spiders?	Hast du Angst vor Spinnen?
+Are you all busy now, Tom?	Seid ihr jetzt beschäftigt, Tom?
+Are you deaf or something?	Bist du taub oder was?
+Are you doing that for me?	Tust du das für mich?
+Are you doing that for me?	Machst Du das für mich?
+Are you doing this for me?	Tust du das für mich?
+Are you doing this for me?	Machst Du das für mich?
+Are you enjoying the view?	Genießt du die Aussicht?
+Are you enjoying the view?	Genießt ihr die Aussicht?
+Are you enjoying the view?	Genießen Sie die Aussicht?
+Are you enjoying yourself?	Amüsierst du dich gut?
+Are you enjoying yourself?	Amüsieren Sie sich?
+Are you expecting anybody?	Erwarten Sie jemanden?
+Are you expecting anybody?	Erwartest du jemanden?
+Are you expecting anybody?	Erwartet ihr jemanden?
+Are you free Monday night?	Hast du Montagabend Zeit?
+Are you free on Wednesday?	Hast du am Mittwoch frei?
+Are you free this evening?	Haben Sie heute Abend Zeit?
+Are you free this evening?	Hast du heute Abend frei?
+Are you free this weekend?	Hast du dieses Wochenende frei?
+Are you free this weekend?	Bist du frei dieses Wochenende?
+Are you free this weekend?	Hast du an diesem Wochenende Zeit?
+Are you free this weekend?	Habt ihr an diesem Wochenende Zeit?
+Are you free this weekend?	Haben Sie an diesem Wochenende Zeit?
+Are you getting a new car?	Bekommen Sie ein neues Auto?
+Are you going out tonight?	Gehst du heute Abend aus?
+Are you going out tonight?	Gehst du heute feiern?
+Are you going to be there?	Wirst du dort sein?
+Are you going to break in?	Wirst du einbrechen?
+Are you going to buy that?	Wirst du das kaufen?
+Are you going to call Tom?	Rufst du Tom an?
+Are you going to call Tom?	Rufen Sie Tom an?
+Are you going to call Tom?	Ruft ihr Tom an?
+Are you going to go there?	Wirst du dorthin gehen?
+Are you going to help Tom?	Werdet ihr Tom helfen?
+Are you going to help Tom?	Werden Sie Tom helfen?
+Are you going to help Tom?	Wirst du Tom helfen?
+Are you going to tell Tom?	Wirst du es Tom sagen?
+Are you going to tell Tom?	Werden Sie es Tom sagen?
+Are you going to use that?	Wirst du das benutzen?
+Are you going to use this?	Wirst du das verwenden?
+Are you going to use this?	Wirst du das benutzen?
+Are you guys still dating?	Seid ihr noch zusammen?
+Are you having dinner now?	Essen Sie das Abendessen jetzt?
+Are you here to arrest me?	Sind Sie hier, um mich zu verhaften?
+Are you here with someone?	Bist du mit jemandem hier?
+Are you here with someone?	Seid ihr mit jemandem hier?
+Are you here with someone?	Sind Sie mit jemandem hier?
+Are you interested in art?	Interessierst du dich für Kunst?
+Are you listening closely?	Hörst du richtig zu?
+Are you looking for a job?	Suchen Sie einen Job?
+Are you looking for a job?	Suchen Sie Arbeit?
+Are you looking for a job?	Suchst du einen Job?
+Are you looking for a job?	Suchst du Arbeit?
+Are you looking for these?	Suchst du nach diesen?
+Are you married or single?	Bist du verheiratet oder alleinstehend?
+Are you married or single?	Sind Sie verheiratet oder alleinstehend?
+Are you no longer in pain?	Hast du keine Schmerzen mehr?
+Are you no longer in pain?	Haben Sie keine Schmerzen mehr?
+Are you really a princess?	Bist du wirklich eine Prinzessin?
+Are you really a princess?	Sind Sie wirklich eine Prinzessin?
+Are you really happy here?	Bist du hier wirklich glücklich?
+Are you really not coming?	Kommst du wirklich nicht?
+Are you really that happy?	Bist du wirklich so glücklich?
+Are you still angry at me?	Bist du mir noch böse?
+Are you still enjoying it?	Gefällt euch das immer noch?
+Are you still in Scotland?	Bist du immer noch in Schottland?
+Are you still out of work?	Sind Sie immer noch ohne Arbeit?
+Are you sure Tom did that?	Bist du dir sicher, dass das Tom getan hat?
+Are you sure Tom did that?	Sind Sie sich sicher, dass Tom das getan hat?
+Are you sure Tom is happy?	Bist du sicher, dass Tom glücklich ist?
+Are you sure it will work?	Sind Sie sicher, dass das funktionieren wird?
+Are you sure this is safe?	Bist du dir sicher, dass das ungefährlich ist?
+Are you sure this'll work?	Sind Sie sicher, dass das funktionieren wird?
+Are you talking about Tom?	Redet ihr über Tom?
+Are you telling the truth?	Sagst du die Wahrheit?
+Are you telling the truth?	Sagen Sie die Wahrheit?
+Are you telling the truth?	Sagt ihr die Wahrheit?
+Are you the new assistant?	Sind Sie der neue Assistent?
+Are you the new assistant?	Bist du der neue Assistent?
+Are you thinking about me?	Denkst du an mich?
+Are you watching TV today?	Siehst du heute fern?
+Are you worried about Tom?	Machst du dir Sorgen um Tom?
+Are you writing this down?	Schreibst du das auf?
+Aren't those your parents?	Sind das da nicht deine Eltern?
+Aren't you Mary's husband?	Sind Sie nicht Marias Ehemann?
+Aren't you Mary's husband?	Bist du nicht Marias Ehemann?
+Aren't you Tom's daughter?	Bist du nicht Toms Tochter?
+Aren't you a baseball fan?	Bist du nicht ein Baseballfan?
+Aren't you a student here?	Bist du nicht ein Student hier?
+Aren't you a teacher here?	Sind Sie nicht Lehrer hier?
+Aren't you afraid of dogs?	Hast du nicht Angst vor Hunden?
+Aren't you angry with Tom?	Bist du nicht wütend auf Tom?
+Aren't you coming with me?	Kommst du nicht mit mir mit?
+Aren't you coming with us?	Kommst du nicht mit?
+Aren't you coming with us?	Kommst du nicht mit uns?
+Aren't you dating anybody?	Bist du nicht mit jemandem zusammen?
+Aren't you free on Monday?	Hast du am Montag nicht frei?
+Aren't you from Australia?	Bist du nicht aus Australien?
+Aren't you getting hungry?	Kriegst du nicht so langsam Hunger?
+Aren't you getting hungry?	Kriegt ihr nicht so langsam Hunger?
+Aren't you getting hungry?	Kriegen Sie nicht so langsam Hunger?
+Aren't you going to do it?	Willst du es nicht tun?
+Aren't you recording this?	Nimmst du das nicht auf?
+Aren't you satisfied, Tom?	Bist du nicht zufrieden, Tom?
+Ask Tom if he can do that.	Frag Tom, ob er das hinkriegt.
+Ask her what she has done.	Frag sie, was sie gemacht hat.
+At first, it is difficult.	Am Anfang ist es schwer.
+At last, the rain stopped.	Endlich hat es aufgehört zu regnen.
+At last, the rain stopped.	Der Regen hat endlich aufgehört.
+At least give me a chance.	Gib mir wenigstens eine Chance!
+At least it wasn't boring.	Wenigstens war es nicht langweilig.
+At least the work is done.	Wenigstens ist die Arbeit getan.
+At what hour was she born?	Um wie viel Uhr ist sie geboren worden?
+Be careful where you step.	Pass auf, wo du hintrittst!
+Be careful where you step.	Passt auf, wo ihr hintretet!
+Be careful where you step.	Passen Sie auf, wo Sie hintreten!
+Be careful. It's slippery.	Vorsicht! Es ist glatt!
+Be polite to your parents.	Sei höflich zu deinen Eltern.
+Be prepared for the worst.	Sei auf das Schlimmste gefasst!
+Be quiet and listen to me.	Sei ruhig und hör mir zu.
+Be quiet and listen to me.	Seid ruhig und hört mir zu.
+Be quiet and listen to me.	Seien Sie ruhig und hören Sie mir zu.
+Being rejected is painful.	Abgewiesen zu werden schmerzt.
+Believe anything you want.	Glaub, was du willst.
+Believe whatever you wish.	Glaub, was du willst!
+Believe whatever you wish.	Glaubt, was ihr wollt!
+Believe whatever you wish.	Glauben Sie, was Sie wollen!
+Black cloth absorbs light.	Schwarze Stoffe absorbieren Licht.
+Blaming others won't help.	Andere beschuldigen hilft auch nicht.
+Blue is my favorite color.	Blau ist meine Lieblingsfarbe.
+Blue whales feed on krill.	Blauwale ernähren sich von Krill.
+Books are my best friends.	Bücher sind meine besten Freunde.
+Boston has a lot to offer.	Boston hat viel zu bieten.
+Both Tom and Mary blushed.	Sowohl Tom als auch Maria erröteten.
+Both Tom and Mary blushed.	Tom sowohl als auch Maria erröteten.
+Both Tom and Mary blushed.	Sowohl Tom wie auch Maria erröteten.
+Both girls have blue eyes.	Beide Mädchen haben blaue Augen.
+Both her parents are dead.	Ihre Eltern sind beide tot.
+Both his parents are dead.	Seine Eltern sind beide tot.
+Both of them are teachers.	Beide von ihnen sind Lehrer.
+Both of them are teachers.	Beide sind Lehrerinnen.
+Bourbon is made from corn.	Bourbon wird aus Mais gemacht.
+Brazil is a large country.	Brasilien ist ein großes Land.
+Bread is baked in an oven.	Brot wird im Ofen gebacken.
+Breakfast is almost ready.	Das Frühstück ist fast fertig.
+Breathe through your nose.	Atme durch die Nase.
+Bring me a glass of water.	Bring mir ein Glas Wasser.
+Bring me a piece of chalk.	Bring mir ein Stück Kreide!
+Bring me something to eat.	Bring mir was zum Essen.
+Bring me something to eat.	Bring mir etwas zu essen.
+Bring me something to eat.	Bringt mir etwas zu essen.
+Bring the water to a boil.	Bringen Sie das Wasser zum Sieden.
+Bring the water to a boil.	Das Wasser zum Kochen bringen.
+Bring your children along.	Bringen Sie Ihre Kinder mit.
+Bring your children along.	Bringt eure Kinder mit.
+Bring your children along.	Bring deine Kinder mit.
+But what's the difference?	Aber worin besteht der Unterschied?
+Butter is made from cream.	Butter wird aus Rahm gemacht.
+Buy me something to drink.	Gib mir ein Getränk aus.
+Buy me something to drink.	Spendier mir ein Getränk.
+Call it anything you want.	Nenn es, wie du willst.
+Call it anything you want.	Nennen Sie es, was Sie wollen.
+Call it anything you want.	Nennt es, wie ihr wollt.
+Call it whatever you want.	Nenn es, wie du willst.
+Call me again in two days.	Ruf mich in zwei Tagen noch mal an.
+Call me again in two days.	Ruft mich in zwei Tagen noch mal an.
+Call me again in two days.	Rufen Sie mich in zwei Tagen noch mal an.
+Call me when you're ready.	Ruf mich, wenn du soweit bist!
+Call me when you're ready.	Ruf mich an, wenn du soweit bist!
+Call me whenever you want.	Ruf mich an, wann immer du willst!
+Call me whenever you want.	Ruft mich an, wann immer ihr wollt!
+Call me whenever you want.	Rufen Sie mich an, wann immer Sie wollen!
+Camels have three eyelids.	Kamele haben drei Augenlider.
+Can I ask a dumb question?	Kann ich dir eine dumme Frage stellen?
+Can I ask a dumb question?	Kann ich Ihnen eine dumme Frage stellen?
+Can I do anything for you?	Kann ich etwas für Sie tun?
+Can I do anything for you?	Kann ich etwas für dich tun?
+Can I do anything to help?	Kann ich irgendetwas tun, um zu helfen?
+Can I get another blanket?	Könnte ich eine neue Bettdecke bekommen?
+Can I have a beer, please?	Kann ich bitte ein Bier haben?
+Can I have some more milk?	Könnte ich noch etwas Milch haben?
+Can I have your autograph?	Kann ich Ihr Autogramm bekommen?
+Can I leave him a message?	Kann ich ihm eine Nachricht hinterlassen?
+Can I speak to the doctor?	Kann ich den Arzt sprechen?
+Can I speak to the doctor?	Kann ich die Ärztin sprechen?
+Can I speak to the doctor?	Kann ich mit der Ärztin sprechen?
+Can I take a picture here?	Darf ich hier fotografieren?
+Can I take your order now?	Kann ich jetzt Ihre Bestellung aufnehmen?
+Can I talk to Tom, please?	Kann ich bitte mit Tom sprechen?
+Can I use this dictionary?	Darf ich dieses Wörterbuch benutzen?
+Can I use your dictionary?	Kann ich dein Wörterbuch benutzen?
+Can anything else be done?	Kann sonst noch etwas getan werden?
+Can it be put more simply?	Kann man es auch einfacher ausdrücken?
+Can we do it another time?	Können wir das ein andermal machen?
+Can we provide assistance?	Können wir Hilfestellung geben?
+Can we really afford that?	Können wir uns das wirklich leisten?
+Can we try something else?	Können wir etwas anderes ausprobieren?
+Can you add these numbers?	Kannst du diese Zahlen zusammenrechnen?
+Can you add these numbers?	Kannst du diese Nummern hinzufügen?
+Can you also speak French?	Kannst du auch Französisch?
+Can you also speak French?	Könnt ihr auch Französisch?
+Can you also speak French?	Können Sie auch Französisch?
+Can you catch the chicken?	Kannst du das Huhn packen?
+Can you catch the chicken?	Kannst du das Huhn einfangen?
+Can you catch the chicken?	Kannst du das Huhn fangen?
+Can you come to the party?	Kannst du auf das Fest kommen?
+Can you come to the party?	Kannst du zur Party kommen?
+Can you describe his face?	Kannst du sein Gesicht beschreiben?
+Can you describe his face?	Können Sie sein Gesicht beschreiben?
+Can you email me the file?	Kann du mir die Datei mailen?
+Can you email me the file?	Kannst du mir die Datei per E-Mail schicken?
+Can you email me the file?	Könnt ihr mir die Datei mailen?
+Can you email me the file?	Können Sie mir die Datei mailen?
+Can you email me the file?	Könnt ihr mir die Datei per E-Mail schicken?
+Can you email me the file?	Können Sie mir die Datei per E-Mail schicken?
+Can you even speak French?	Kannst du überhaupt Französisch?
+Can you even speak French?	Könnt ihr überhaupt Französisch?
+Can you even speak French?	Können Sie überhaupt Französisch?
+Can you excuse me, please?	Würden Sie mich bitte entschuldigen?
+Can you get there by bike?	Kann man per Rad dorthin gelangen?
+Can you help me lift this?	Können Sie mir helfen, das zu heben?
+Can you lend me that book?	Kannst du mir das Buch ausleihen?
+Can you lend me your bike?	Kannst du mir dein Fahrrad ausleihen?
+Can you mail these for me?	Kannst du die für mich wegschicken?
+Can you make an exception?	Können Sie eine Ausnahme machen?
+Can you make an exception?	Kannst du eine Ausnahme machen?
+Can you make an exception?	Könnt ihr eine Ausnahme machen?
+Can you order them for me?	Kannst du sie mir bestellen?
+Can you order them for me?	Können Sie sie mir bestellen?
+Can you order them for me?	Könnt ihr sie mir bestellen?
+Can you pay me in advance?	Können Sie mich im Voraus bezahlen?
+Can you put me up tonight?	Kannst du mich heute Nacht bei dir unterbringen?
+Can you recommend a hotel?	Können Sie mir ein Hotel empfehlen?
+Can you remember anything?	Kannst du dich an irgend etwas erinnern?
+Can you remember his name?	Kannst du dich an seinen Namen erinnern?
+Can you remember his name?	Kannst du dich an ihren Namen erinnern?
+Can you show me that book?	Kannst du mir das Buch zeigen?
+Can you show me the house?	Kannst du mir das Haus zeigen?
+Can you show me the house?	Können Sie mir das Haus zeigen?
+Can you show us the house?	Kannst du uns das Haus zeigen?
+Can you show us the house?	Können Sie uns das Haus zeigen?
+Can you show us the house?	Könnt ihr uns das Haus zeigen?
+Can you spare some change?	Haben Sie etwas Kleingeld für mich übrig?
+Can you speak French well?	Sprichst du gut Französisch?
+Can you speak French well?	Sprechen Sie gut Französisch?
+Can you speak French, too?	Sprichst du auch Französisch?
+Can you stay a bit longer?	Kannst du noch etwas bleiben?
+Can you stay a bit longer?	Könnt ihr noch etwas bleiben?
+Can you stay a bit longer?	Können Sie noch etwas bleiben?
+Can you still play tennis?	Kannst du noch Tennis spielen?
+Can you still remember it?	Kannst du dich noch daran erinnern?
+Can you touch the ceiling?	Kannst du an die Zimmerdecke fassen?
+Can you touch the ceiling?	Kannst du die Decke berühren?
+Can't we just flip a coin?	Können wir nicht einfach eine Münze werfen?
+Can't we think about this?	Können wir nicht darüber nachdenken?
+Cats hate vacuum cleaners.	Katzen hassen Staubsauger.
+Children are not admitted.	Kinder werden nicht zugelassen.
+Children aren't safe here.	Kinder sind hier nicht sicher.
+Children can't drink wine.	Kinder dürfen keinen Wein trinken.
+Choose whichever you like.	Wähle, was auch immer dir gefällt.
+Choose whichever you like.	Wählen Sie, was auch immer Ihnen gefällt.
+Choose whichever you like.	Wählt, was auch immer euch gefällt.
+Chrysanthemums smell nice.	Chrysanthemen riechen gut.
+Classes begin next Monday.	Der Unterricht beginnt am nächsten Montag.
+Clocks keep track of time.	Uhren messen die Zeit.
+Close the door behind you.	Schließe die Türe hinter dir.
+Come and see for yourself.	Komm und sieh selbst!
+Come at any time you like.	Kommt, wann ihr wollt.
+Come at ten o'clock sharp.	Komme pünktlich um 10 Uhr.
+Come on Monday if you can.	Komme am Montag, wenn du kannst.
+Come on Monday if you can.	Kommen Sie am Montag, wenn Sie können.
+Come on Monday if you can.	Kommt am Montag, wenn ihr könnt.
+Come on! Give me a chance.	Na los doch! Gib mir eine Chance!
+Come to my house at eight.	Komm um acht bei mir vorbei.
+Come to my house at eight.	Kommt um acht bei mir vorbei.
+Come to my house at eight.	Kommen Sie um acht bei mir vorbei.
+Come whenever you want to.	Komm, wann du willst.
+Come whenever you want to.	Kommt, wann ihr wollt.
+Come whenever you want to.	Komm, wann immer du willst.
+Come with me, both of you.	Kommt alle beide mal mit!
+Coming here was a mistake.	Es war ein Fehler, hierher zu kommen.
+Comparisons are difficult.	Vergleiche sind schwer.
+Computers are very useful.	Computer sind sehr nützlich.
+Could I borrow your notes?	Dürfte ich mir deine Notizen ausleihen?
+Could I have some of that?	Könnte ich davon etwas bekommen?
+Could you help me, please?	Könntest du mir bitte helfen?
+Could you help us, please?	Könntest du uns bitte helfen?
+Could you help us, please?	Könnten Sie uns bitte helfen?
+Could you help us, please?	Könntet ihr uns bitte helfen?
+Could you open the window?	Könntest du das Fenster öffnen?
+Could you open the window?	Könntet ihr das Fenster öffnen?
+Could you open the window?	Könnten Sie das Fenster öffnen?
+Could you please be quiet?	Könntest du bitte ruhig sein?
+Could you please be quiet?	Könnten Sie bitte ruhig sein?
+Could you please be quiet?	Könntet ihr bitte ruhig sein?
+Could you turn off the TV?	Könnten Sie den Fernseher ausschalten?
+Could you turn off the TV?	Könntest du den Fernseher ausschalten?
+Could you turn off the TV?	Könntet ihr den Fernseher ausschalten?
+Could you turn off the TV?	Könntest du den Fernseher ausstellen?
+Cows provide us with milk.	Kühe versorgen uns mit Milch.
+Culture destroys language.	Kultur zerstört Sprache.
+Cut the cake with a knife.	Schneide den Kuchen mit einem Messer.
+Dad knows what he's doing.	Papa weiß, was er macht.
+Dad knows what he's doing.	Papa weiß, was er tut.
+Dancing is just plain fun.	Das Tanzen ist eine wahre Freude.
+Desire leads to suffering.	Begehren führt zu Leid.
+Did I interrupt something?	Habe ich dich bei etwas gestört?
+Did I miss something here?	Ist mir hier etwas entgangen?
+Did I say something wrong?	Habe ich etwas Falsches gesagt?
+Did Tom actually say that?	Hat das Tom wirklich gesagt?
+Did Tom already know that?	Wusste Tom das schon?
+Did Tom give you anything?	Hat Tom dir irgendwas gegeben?
+Did Tom give you anything?	Hat Tom euch irgend etwas gegeben?
+Did Tom give you anything?	Hat Tom Ihnen etwas gegeben?
+Did Tom go swimming today?	War Tom heute schwimmen?
+Did Tom leave without you?	Ist Tom ohne dich gefahren?
+Did Tom leave without you?	Ist Tom ohne dich gegangen?
+Did Tom like it in Boston?	Hat es Tom in Boston gefallen?
+Did Tom say he left early?	Hat Tom gesagt, dass er früher gegangen ist?
+Did Tom use to play hooky?	Pflegte Tom die Schule zu schwänzen?
+Did he look like a doctor?	Sah er wie ein Arzt aus?
+Did the interview go well?	Ist das Vorstellungsgespräch gut verlaufen?
+Did the police arrest Tom?	Hat die Polizei Tom festgenommen?
+Did you already know that?	Wusstest du das schon?
+Did you already know that?	Wussten Sie das schon?
+Did you already know that?	Wusstet ihr das schon?
+Did you break up with Tom?	Hast du mit Tom Schluss gemacht?
+Did you change the filter?	Hast du den Filter ausgetauscht?
+Did you change the filter?	Habt ihr den Filter ausgetauscht?
+Did you change the filter?	Haben Sie den Filter ausgetauscht?
+Did you change the filter?	Hast du den Filter gewechselt?
+Did you change the filter?	Habt ihr den Filter gewechselt?
+Did you change the filter?	Haben Sie den Filter gewechselt?
+Did you change the filter?	Hast du den Filter getauscht?
+Did you change the filter?	Habt ihr den Filter getauscht?
+Did you change the filter?	Haben Sie den Filter getauscht?
+Did you complete the work?	Bist du mit der Arbeit fertig?
+Did you do it by yourself?	Hast du das selbst gemacht?
+Did you do that purposely?	Hast du das absichtlich getan?
+Did you do that purposely?	Habt ihr das absichtlich getan?
+Did you do that purposely?	Haben Sie das absichtlich getan?
+Did you eat all the bread?	Hast du das Brot aufgegessen?
+Did you enjoy the concert?	Hat dir das Konzert gefallen?
+Did you enjoy the concert?	Hat Ihnen das Konzert gefallen?
+Did you expect Tom to win?	Hast du erwartet, dass Tom gewinnt?
+Did you find your letters?	Hast du deine Briefe gefunden?
+Did you find your letters?	Habt ihr eure Briefe gefunden?
+Did you find your letters?	Haben Sie Ihre Briefe gefunden?
+Did you find your parents?	Hast du deine Eltern gefunden?
+Did you flash your lights?	Hast du die Lichthupe betätigt?
+Did you flash your lights?	Haben Sie die Lichthupe betätigt?
+Did you get Tom's message?	Hast du Toms Nachricht bekommen?
+Did you get Tom's message?	Haben Sie Toms Nachricht bekommen?
+Did you get Tom's message?	Habt ihr Toms Nachricht bekommen?
+Did you go out last night?	Seid ihr letzte Nacht ausgegangen?
+Did you go out last night?	Bist du gestern Abend ausgegangen?
+Did you go out last night?	Seid ihr gestern Abend ausgegangen?
+Did you go out last night?	Sind Sie gestern Abend ausgegangen?
+Did you have a good sleep?	Hast du gut geschlafen?
+Did you have a good sleep?	Habt ihr gut geschlafen?
+Did you have a good sleep?	Haben Sie gut geschlafen?
+Did you have fun with Tom?	Hast du dich mit Tom gut amüsiert?
+Did you have fun with Tom?	Habt ihr euch mit Tom gut amüsiert?
+Did you have fun with Tom?	Haben Sie sich mit Tom gut amüsiert?
+Did you have to wait long?	Musstest du lange warten?
+Did you have to wait long?	Mussten Sie lange warten?
+Did you hear what we said?	Habt ihr gehört, was wir gesagt haben?
+Did you hear what we said?	Hast du gehört, was wir gesagt haben?
+Did you hear what we said?	Haben Sie gehört, was wir gesagt haben?
+Did you know Tom's mother?	Kanntest du Toms Mutter?
+Did you know Tom's mother?	Kanntet ihr Toms Mutter?
+Did you know Tom's mother?	Kannten Sie Toms Mutter?
+Did you know this already?	Wusstest du das schon?
+Did you know this already?	Wussten Sie das schon?
+Did you know this already?	Wusstet ihr das bereits?
+Did you notice any change?	Hast du eine Veränderung bemerkt?
+Did you notice any errors?	Hast du Fehler gesehen?
+Did you play tennis today?	Hast du heute Tennis gespielt?
+Did you pull the plug out?	Hast du den Stecker gezogen?
+Did you receive my letter?	Hast du meinen Brief bekommen?
+Did you regret doing that?	Hat es dir leid getan, dass du das gemacht hast?
+Did you rent an apartment?	Hast du eine Wohnung gemietet?
+Did you rent an apartment?	Haben Sie eine Wohnung gemietet?
+Did you say you had a cat?	Hast du gesagt, dass du eine Katze hast?
+Did you see Tom yesterday?	Hast du Tom gestern gesehen?
+Did you see anybody there?	Hast du dort jemanden gesehen?
+Did you see anybody there?	Haben Sie dort jemanden gesehen?
+Did you see anybody there?	Habt ihr dort jemanden gesehen?
+Did you see anything else?	Hast du sonst noch etwas gesehen?
+Did you see anything else?	Habt ihr sonst noch etwas gesehen?
+Did you see anything else?	Haben Sie sonst noch etwas gesehen?
+Did you see the fireworks?	Hast du das Feuerwerk gesehen?
+Did you sign the contract?	Hast du den Vertrag unterschrieben?
+Did you sign the contract?	Haben Sie den Vertrag unterschrieben?
+Did you sign the contract?	Habt ihr den Vertrag unterschrieben?
+Did you solve the problem?	Hast du das Problem gelöst?
+Did you solve the problem?	Habt ihr das Problem gelöst?
+Did you solve the problem?	Haben Sie das Problem gelöst?
+Did you stay up all night?	Bist du die ganze Nacht aufgeblieben?
+Did you take Tom's advice?	Hast du Toms Rat befolgt?
+Did you take Tom's advice?	Haben Sie Toms Rat befolgt?
+Did you talk to your wife?	Hast du mit deiner Frau gesprochen?
+Did you use my toothbrush?	Hast du meine Zahnbürste benutzt?
+Did you wash these apples?	Hast du diese Äpfel gewaschen?
+Didn't you enjoy the show?	Hat dir die Vorstellung nicht gefallen?
+Didn't you get my message?	Hast du meine Nachricht nicht bekommen?
+Didn't you like the movie?	Hat dir der Film nicht gefallen?
+Didn't you like the movie?	Hat euch der Film nicht gefallen?
+Didn't you like the movie?	Hat Ihnen der Film nicht gefallen?
+Didn't you like this book?	Hat dir dieses Buch nicht gefallen?
+Didn't you see Tom's face?	Hast du nicht Toms Gesicht gesehen?
+Didn't you visit the park?	Hast du den Park nicht besichtigt?
+Dinner will be ready soon.	Das Abendessen ist bald fertig.
+Dinosaurs are now extinct.	Dinosaurier sind mittlerweile ausgestorben.
+Divide the pizza in three.	Teile die Pizza in drei Teile.
+Do I have to do that, too?	Muss ich das auch machen?
+Do I have to go right now?	Muss ich sofort gehen?
+Do I have to go to Boston?	Muss ich nach Boston gehen?
+Do I have to write in ink?	Muss ich mit Tinte schreiben?
+Do I look like Tom to you?	Sehe ich für dich aus wie Tom?
+Do Tom and Mary get along?	Kommen Tom und Mary miteinander klar?
+Do a better job next time.	Gib dir beim nächsten Mal mehr Mühe!
+Do as your heart dictates.	Tu, was dir das Herz gebeut!
+Do as your heart dictates.	Tu, was dein Herz dir sagt!
+Do as your heart dictates.	Folge der Stimme deines Herzens!
+Do either of you know Tom?	Kennt einer von euch Tom?
+Do either of you know Tom?	Kennt einer von Ihnen Tom?
+Do it while you still can.	Tu es, solange du noch kannst!
+Do me a favor and shut up.	Tu mir einen Gefallen – schweig!
+Do not read while walking.	Lies nicht im Gehen.
+Do not try to imitate her.	Versuche sie nicht nachzuahmen.
+Do not try to imitate her.	Versuche nicht, sie nachzuahmen.
+Do they know that we know?	Wissen sie, dass wir es wissen?
+Do what you think is best.	Tu, was du für das Beste hältst.
+Do you actually like this?	Magst du das wirklich?
+Do you actually live here?	Leben Sie wirklich hier?
+Do you believe in fairies?	Glaubst du an Feen?
+Do you deliver on Sundays?	Liefert ihr sonntags?
+Do you do that very often?	Machst du das sehr oft?
+Do you drink beer or wine?	Trinken Sie Bier oder Wein?
+Do you drink beer or wine?	Trinkst du Bier oder Wein?
+Do you drink beer or wine?	Trinkt ihr Bier oder Wein?
+Do you drink black coffee?	Trinkst du schwarzen Kaffee?
+Do you drink black coffee?	Trinken Sie schwarzen Kaffee?
+Do you drink black coffee?	Trinkt ihr schwarzen Kaffee?
+Do you eat rice every day?	Isst du jeden Tag Reis?
+Do you eat rice every day?	Esst ihr jeden Tag Reis?
+Do you eat rice every day?	Essen Sie jeden Tag Reis?
+Do you feel sorry for Tom?	Tut dir Tom leid?
+Do you find me attractive?	Findest du mich attraktiv?
+Do you find that annoying?	Findest du das lästig?
+Do you find that annoying?	Findest du das nervig?
+Do you go to Boston often?	Fährst du oft nach Boston?
+Do you go to Boston often?	Fahren Sie oft nach Boston?
+Do you go to Boston often?	Fahrt ihr oft nach Boston?
+Do you guys think I'm fat?	Findet ihr, dass ich dick bin?
+Do you guys understand me?	Versteht ihr mich?
+Do you happen to know Tom?	Kennst du zufälligerweise Tom?
+Do you happen to know Tom?	Kennen Sie zufälligerweise Tom?
+Do you happen to know Tom?	Kennt ihr zufälligerweise Tom?
+Do you hate Tom that much?	So sehr hasst du Tom?
+Do you have Tom's address?	Hast du Toms Adresse?
+Do you have Tom's address?	Haben Sie Toms Adresse?
+Do you have Tom's address?	Habt ihr Toms Adresse?
+Do you have a best friend?	Hast du einen besten Freund?
+Do you have a double room?	Haben Sie ein Doppelzimmer?
+Do you have a family, Tom?	Hast du eine Familie, Tom?
+Do you have a few minutes?	Hast du ein paar Minuten?
+Do you have a few minutes?	Haben Sie ein paar Minuten?
+Do you have a larger size?	Haben Sie eine größere Größe?
+Do you have a lot of pens?	Hast du viele Stifte?
+Do you have a lot of time?	Hast du viel Zeit?
+Do you have a points card?	Haben Sie eine Kundenkarte?
+Do you have a reservation?	Haben Sie reserviert?
+Do you have a reservation?	Habt ihr reserviert?
+Do you have a reservation?	Hast du reserviert?
+Do you have a snow shovel?	Hast du einen Schneeschieber?
+Do you have a stomachache?	Hast du Bauchschmerzen?
+Do you have a stomachache?	Hast du Bauchweh?
+Do you have a temperature?	Hast du Fieber?
+Do you have a temperature?	Haben Sie Fieber?
+Do you have a twin sister?	Hast du eine Zwillingsschwester?
+Do you have a twin sister?	Haben Sie eine Zwillingsschwester?
+Do you have an MP3 player?	Hast du einen MP3-Player?
+Do you have an answer yet?	Hast du schon eine Antwort?
+Do you have any allergies?	Haben Sie irgendwelche Allergien?
+Do you have any allergies?	Hast du irgendwelche Allergien?
+Do you have any allergies?	Habt ihr irgendwelche Allergien?
+Do you have any allergies?	Haben Sie Allergien?
+Do you have any bug spray?	Hast du Insektenspray?
+Do you have any bug spray?	Hätten Sie Insektenspray?
+Do you have any bug spray?	Habt ihr Insektenspray?
+Do you have any daughters?	Hast du Töchter?
+Do you have any daughters?	Habt ihr Töchter?
+Do you have any daughters?	Haben Sie Töchter?
+Do you have any good news?	Hast du gute Neuigkeiten?
+Do you have any good news?	Hast du gute Nachrichten?
+Do you have any good news?	Hast du irgendeine gute Nachricht?
+Do you have any good news?	Haben Sie irgendeine gute Nachricht?
+Do you have any good news?	Habt ihr irgendeine gute Nachricht?
+Do you have any more milk?	Habt ihr noch Milch?
+Do you have any objection?	Hast du etwas dagegen?
+Do you have any objection?	Hast du irgendwelche Einwände?
+Do you have any objection?	Habt ihr irgendwelche Einwände?
+Do you have any objection?	Haben Sie irgendwelche Einwände?
+Do you have any objection?	Habt ihr etwas dagegen?
+Do you have any objection?	Haben Sie etwas dagegen?
+Do you have any questions?	Haben Sie Fragen?
+Do you have any questions?	Habt ihr Fragen?
+Do you have any questions?	Hast du Fragen?
+Do you have any sunscreen?	Hast du Sonnenmilch?
+Do you have any sunscreen?	Haben Sie Sonnenmilch?
+Do you have any vacancies?	Haben Sie ein Zimmer frei?
+Do you have grandchildren?	Haben Sie Enkelkinder?
+Do you have hard evidence?	Hast du einen handfesten Beweis?
+Do you have hard evidence?	Habt ihr einen handfesten Beweis?
+Do you have hard evidence?	Haben Sie einen handfesten Beweis?
+Do you have one-day tours?	Bieten Sie Tagesausflüge an?
+Do you have two computers?	Hast du zwei Computer?
+Do you have walking boots?	Hast du Wanderstiefel?
+Do you have walking shoes?	Hast du Wanderschuhe?
+Do you have walking shoes?	Habt ihr Wanderschuhe?
+Do you have walking shoes?	Haben Sie Wanderschuhe?
+Do you have what it takes?	Hast du das Zeug dazu?
+Do you have your own room?	Hast du ein eigenes Zimmer?
+Do you have your own room?	Habt ihr ein eigenes Zimmer?
+Do you have your own room?	Haben Sie ein eigenes Zimmer?
+Do you intend to help Tom?	Hast du vor, Tom zu helfen?
+Do you intend to help Tom?	Habt ihr vor, Tom zu helfen?
+Do you intend to help Tom?	Haben Sie vor, Tom zu helfen?
+Do you know Tom's address?	Kennst du Toms Anschrift?
+Do you know Tom's parents?	Kennst du Toms Eltern?
+Do you know Tom's parents?	Kennt ihr Toms Eltern?
+Do you know Tom's parents?	Kennen Sie Toms Eltern?
+Do you know how they knew?	Weißt du, von wo sie es erfuhren?
+Do you know how to use it?	Weißt du, wie man das benutzt?
+Do you know how to use it?	Wisst ihr, wie man das benutzt?
+Do you know how to use it?	Wissen Sie, wie man das benutzt?
+Do you know what Tom said?	Weißt du, was Tom gesagt hat?
+Do you know what happened?	Weißt du, was passiert ist?
+Do you know what she said?	Weißt du, was sie gesagt hat?
+Do you know what she said?	Wisst ihr, was sie gesagt hat?
+Do you know what she said?	Wissen Sie, was sie gesagt hat?
+Do you know when Tom died?	Weißt du, wann Tom gestorben ist?
+Do you know where he went?	Wissen Sie, wo er hinging?
+Do you know where he went?	Weißt du, wo er hingegangen ist?
+Do you know where he went?	Wisst ihr, wo er hingegangen ist?
+Do you know where he went?	Wissen Sie, wo er hingegangen ist?
+Do you know where we live?	Weißt du, wo wir wohnen?
+Do you know where you are?	Weißt du, wo du bist?
+Do you know who said that?	Weißt du, wer das gesagt hat?
+Do you know who said that?	Wisst ihr, wer das gesagt hat?
+Do you know who said that?	Wissen Sie, wer das gesagt hat?
+Do you know whose this is?	Weißt du, wem das hier gehört?
+Do you like Earl Grey tea?	Magst du Earl-Grey-Tee?
+Do you like Japanese food?	Essen Sie gerne japanisch?
+Do you like Japanese food?	Magst du japanisches Essen?
+Do you like Japanese food?	Isst du gerne japanisch?
+Do you like San Francisco?	Gefällt dir San Francisco?
+Do you like San Francisco?	Gefällt euch San Francisco?
+Do you like San Francisco?	Gefällt Ihnen San Francisco?
+Do you like Tom's tattoos?	Gefallen dir Toms Tätowierungen?
+Do you like frozen yogurt?	Magst du Joghurteis?
+Do you like ghost stories?	Magst du Geistergeschichten?
+Do you like ghost stories?	Mögt ihr Geistergeschichten?
+Do you like ghost stories?	Mögen Sie Geistergeschichten?
+Do you like going to work?	Gehst du gern zur Arbeit?
+Do you like going to work?	Gehen Sie gern zur Arbeit?
+Do you like going to work?	Geht ihr gern zur Arbeit?
+Do you like peanut butter?	Magst du Erdnussbutter?
+Do you like tea or coffee?	Magst du Tee oder Kaffee?
+Do you like the apartment?	Gefällt dir die Wohnung?
+Do you like the apartment?	Gefällt euch die Wohnung?
+Do you like the apartment?	Gefällt Ihnen die Wohnung?
+Do you like the food here?	Magst du das Essen hier?
+Do you like this backpack?	Gefällt dir dieser Rucksack?
+Do you like to play games?	Spielst du gern?
+Do you like to play games?	Spielt ihr gern?
+Do you like to play games?	Spielen Sie gern?
+Do you like your teachers?	Magst du deine Lehrer?
+Do you live in the desert?	Wohnst du in der Wüste?
+Do you mind if I join you?	Macht es Ihnen etwas aus, wenn ich mich Ihnen anschließe?
+Do you mind if I join you?	Macht es Ihnen etwas aus, wenn ich mich zu Ihnen geselle?
+Do you need anything else?	Brauchst du sonst noch etwas?
+Do you need anything else?	Benötigen Sie noch etwas anderes?
+Do you need anything else?	Brauchst du sonst noch was?
+Do you need anything else?	Brauchst du noch etwas?
+Do you need my assistance?	Brauchst du meine Hilfe?
+Do you need my assistance?	Braucht ihr meine Hilfe?
+Do you need my assistance?	Brauchen Sie meine Hilfe?
+Do you plan on using that?	Hast du vor, das zu benutzen?
+Do you play an instrument?	Spielen Sie irgendein Instrument?
+Do you recognize my voice?	Erkennst du meine Stimme?
+Do you recognize my voice?	Erkennt ihr meine Stimme?
+Do you recognize my voice?	Erkennen Sie meine Stimme?
+Do you remember that shop?	Erinnerst du dich an das Geschäft?
+Do you see the difference?	Sehen Sie den Unterschied?
+Do you sell mineral water?	Verkaufen Sie Mineralwasser?
+Do you still drink coffee?	Trinkst du noch Kaffee?
+Do you still go to church?	Gehst du noch in die Kirche?
+Do you still go to school?	Gehst du noch zur Schule?
+Do you still have a fever?	Hast du noch Fieber?
+Do you still need my help?	Brauchst du meine Hilfe noch?
+Do you still study French?	Lernst du noch Französisch?
+Do you still wear glasses?	Trägst du noch eine Brille?
+Do you still work for Tom?	Arbeitest du noch für Tom?
+Do you still work for Tom?	Arbeitest du immer noch für Tom?
+Do you still work for Tom?	Arbeitet ihr noch für Tom?
+Do you still work for Tom?	Arbeitet ihr immer noch für Tom?
+Do you still work for Tom?	Arbeiten Sie noch für Tom?
+Do you still work for Tom?	Arbeiten Sie immer noch für Tom?
+Do you take me for a fool?	Hältst du mich für einen Dummkopf?
+Do you take me for a fool?	Denkst du, dass ich ein Idiot bin?
+Do you take nitroglycerin?	Nehmen Sie Nitroglycerin?
+Do you think I don't care?	Glaubst du etwa, das ist mir gleich?
+Do you think I don't know?	Denkst du, ich weiß es nicht?
+Do you think I look happy?	Denkst du, ich sehe glücklich aus?
+Do you think I need to go?	Denkst du, ich muss gehen?
+Do you think I need to go?	Denkt ihr, dass ich hingehen muss?
+Do you think I need to go?	Glauben Sie, ich muss da hingehen?
+Do you think I'm an idiot?	Hältst du mich für einen Idioten?
+Do you think I'm an idiot?	Haltet ihr mich für einen Idioten?
+Do you think I'm an idiot?	Denkst du, dass ich ein Idiot bin?
+Do you think I'm handsome?	Findest du mich hübsch?
+Do you think I'm handsome?	Findest du mich gutaussehend?
+Do you think I'm to blame?	Glaubst du etwa, das wäre meine Schuld?
+Do you think I'm too tall?	Findest du mich zu groß?
+Do you think I'm too tall?	Finden Sie mich zu groß?
+Do you think I'm too tall?	Findet ihr mich zu groß?
+Do you think Tom did this?	Glaubst du, Tom hat das getan?
+Do you think Tom is drunk?	Denkst du, Tom ist betrunken?
+Do you think Tom is drunk?	Denkt ihr, Tom ist betrunken?
+Do you think Tom is drunk?	Denken Sie, Tom ist betrunken?
+Do you think Tom is happy?	Glaubst du, dass Tom glücklich ist?
+Do you think Tom is happy?	Denkst du, Tom ist glücklich?
+Do you think Tom is lying?	Denkst du, Tom lügt?
+Do you think Tom is right?	Meinst du, Tom hat recht?
+Do you think Tom is right?	Meinen Sie, dass Tom recht hat?
+Do you think Tom likes me?	Glaubst du, Tom mag mich?
+Do you think Tom likes me?	Glaubt ihr, Tom mag mich?
+Do you think Tom likes me?	Glauben Sie, Tom mag mich?
+Do you think Tom saw Mary?	Denkst du, Tom hat Maria gesehen?
+Do you think aliens exist?	Glaubst du, dass es Aliens gibt?
+Do you think it will work?	Denkst du, dass es funktionieren wird?
+Do you think that's wrong?	Glaubst du, das ist falsch?
+Do you think that's wrong?	Glauben Sie, das ist falsch?
+Do you think that's wrong?	Glaubt ihr, das ist falsch?
+Do you think they noticed?	Denkst du, sie haben’s gemerkt?
+Do you think this is fair?	Findest du das gerecht?
+Do you think you can come?	Denkst du, dass du kommen kannst?
+Do you think you're obese?	Hältst du dich für fettleibig?
+Do you think you're obese?	Haltet ihr euch für fettleibig?
+Do you think you're obese?	Halten Sie sich für fettleibig?
+Do you think you're smart?	Hältst du dich für klug?
+Do you think you're smart?	Halten Sie sich für klug?
+Do you think you're smart?	Haltet ihr euch für klug?
+Do you understand English?	Verstehen Sie Englisch?
+Do you understand me, Tom?	Verstehst du mich, Tom?
+Do you use all this stuff?	Benutzt du all diesen Kram?
+Do you want a bit of milk?	Willst du ein bisschen Milch?
+Do you want a little cake?	Möchtest du etwas Kuchen?
+Do you want anything else?	Willst du sonst noch etwas?
+Do you want me to ask Tom?	Willst du, dass ich Tom frage?
+Do you want me to do that?	Willst du, dass ich das mache?
+Do you want me to go away?	Willst du, dass ich gehe?
+Do you want me to go home?	Willst du, dass ich nach Hause gehe?
+Do you want some more tea?	Wollt ihr noch ein bisschen Tee?
+Do you want some more tea?	Wollen Sie noch ein bisschen Tee?
+Do you want some more tea?	Möchten Sie noch etwas Tee?
+Do you want some more tea?	Möchtest du noch etwas Tee?
+Do you want some more tea?	Möchtet ihr noch etwas Tee?
+Do you want tea or coffee?	Willst du Tee oder Kaffee trinken?
+Do you want to come along?	Willst du mitkommen?
+Do you want to go hunting?	Möchtest du auf die Jagd gehen?
+Do you want to go with us?	Möchtest du mit uns gehen?
+Do you want to look at it?	Willst du es dir ansehen?
+Do you want to look at it?	Wollen Sie es sich ansehen?
+Do you want to see it now?	Willst du es jetzt sehen?
+Do you want to see my cat?	Willst du mal meine Katze sehen?
+Do you want to skip class?	Willst du schwänzen?
+Do you watch TV every day?	Siehst du jeden Tag fern?
+Do you watch TV every day?	Schaust du jeden Tag Fernsehen?
+Do you wear a hearing aid?	Tragen Sie ein Hörgerät?
+Do you wear shoes indoors?	Trägst du im Haus Schuhe?
+Do you wear shoes indoors?	Tragt ihr im Haus Schuhe?
+Do you wear shoes indoors?	Tragen Sie im Haus Schuhe?
+Do you work at a hospital?	Arbeitest du in einem Krankenhaus?
+Do you work at a hospital?	Arbeiten Sie in einem Krankenhaus?
+Do you work at a hospital?	Arbeitet ihr in einem Krankenhaus?
+Do you write love letters?	Schreibst du Liebesbriefe?
+Do you write love letters?	Schreibt ihr Liebesbriefe?
+Do you write love letters?	Schreiben Sie Liebesbriefe?
+Does Tom believe in magic?	Glaubt Tom an Magie?
+Does Tom have a lot to do?	Hat Tom viel zu tun?
+Does Tom have any sisters?	Hat Tom Schwestern?
+Does Tom have to be there?	Muss Tom dort sein?
+Does Tom have to be there?	Muss Tom da sein?
+Does Tom know how to cook?	Kann Tom kochen?
+Does Tom know what we did?	Weiß Tom, was wir gemacht haben?
+Does Tom know what you do?	Weiß Tom, was du tust?
+Does Tom know where to go?	Weiß Tom, wo es lang geht?
+Does Tom know you're here?	Weiß Tom, dass du hier bist?
+Does Tom like his new job?	Gefällt Tom seine neue Arbeit?
+Does Tom like his parents?	Mag Tom seine Eltern?
+Does Tom live around here?	Wohnt Tom in dieser Gegend?
+Does Tom really want that?	Will Tom das wirklich?
+Does Tom really want this?	Will Tom das wirklich?
+Does Tom still have a dog?	Hat Tom noch immer einen Hund?
+Does Tom still have a key?	Hat Tom noch einen Schlüssel?
+Does Tom suspect anything?	Vermutet Tom etwas?
+Does Tom think he can win?	Glaubt Tom, dass er gewinnen kann?
+Does Tom think it'll rain?	Glaubt Tom, dass es regnen wird?
+Does Tom think it'll snow?	Glaubt Tom, dass es schneien wird?
+Does Tom want this or not?	Will Tom das oder nicht?
+Does anyone still do that?	Macht das überhaupt noch jemand?
+Does everybody understand?	Verstehen alle?
+Does he go to work by bus?	Fährt er mit dem Bus zur Arbeit?
+Does he have any brothers?	Hat er Brüder?
+Does he know how you feel?	Weiß er, wie du dich fühlst?
+Does he know how you feel?	Weiß er, wie Sie sich fühlen?
+Does he know what you did?	Weißt er, was du gemacht hast?
+Does it look cloudy today?	Schaut es heute wolkig aus?
+Does it look cloudy today?	Sieht es heute wolkig aus?
+Does it make a difference?	Macht es einen Unterschied?
+Does it matter what we do?	Spielt es eine Rolle, was wir tun?
+Does she have a boyfriend?	Hat sie einen Freund?
+Does she like her new job?	Gefällt ihr ihre neue Arbeit?
+Does that float your boat?	Wie würde dir das passen?
+Does that help you at all?	Hilft Ihnen das irgendwie?
+Does that make it clearer?	Wird das dadurch verständlicher?
+Does the room have a bath?	Hat das Zimmer ein Bad?
+Does this dress look okay?	Sieht dieses Kleid aus?
+Does this have meat in it?	Ist da Fleisch drin?
+Does this have pork in it?	Ist da Schweinefleisch drin?
+Does this look good on me?	Schaut das gut an mir aus?
+Does your back still hurt?	Tut dein Rücken immer noch weh?
+Does your head still ache?	Hast du noch immer Kopfschmerzen?
+Doesn't Tom look handsome?	Ist Tom nicht gutaussehend?
+Doesn't that worry anyone?	Beunruhigt das niemanden?
+Dogs are faithful animals.	Hunde sind treue Tiere.
+Dogs have very good noses.	Hunde haben eine sehr gute Nase.
+Doing this makes me happy.	Das macht mich glücklich.
+Dolphins are really smart.	Delphine sind sehr klug.
+Don't I owe you something?	Schulde ich dir nicht etwas?
+Don't ask me how it works.	Frag mich nicht, wie das funktioniert!
+Don't ask me what that is.	Frag mich nicht, was das ist!
+Don't ask me what that is.	Fragt mich nicht, was das ist!
+Don't ask me what that is.	Fragen Sie mich nicht, was das ist!
+Don't ask silly questions.	Stell keine albernen Fragen!
+Don't ask silly questions.	Stellt keine albernen Fragen!
+Don't ask silly questions.	Stellen Sie keine albernen Fragen!
+Don't be afraid of change.	Habe keine Angst vor Änderungen.
+Don't be afraid of change.	Fürchte dich nicht vor Änderungen.
+Don't be afraid of change.	Habt keine Angst vor Änderungen.
+Don't be afraid of change.	Fürchtet euch nicht vor Änderungen.
+Don't be cruel to animals.	Sei nicht grausam zu Tieren!
+Don't be so narrow-minded.	Sei nicht so borniert!
+Don't blame the messenger.	Gib nicht dem Überbringer der Botschaft die Schuld!
+Don't blame the messenger.	Beschuldige nicht den Boten!
+Don't concede too quickly.	Gib nicht zu schnell nach!
+Don't cry over spilt milk.	Weine nicht um die vergossene Milch!
+Don't do something stupid.	Mache nicht so etwas Dummes!
+Don't do this to me again.	Tu mir das nicht nochmal an.
+Don't eat my french fries.	Iss nicht meine Pommes!
+Don't eat my french fries.	Essen Sie nicht meine Pommes!
+Don't eat my french fries.	Esst nicht meine Pommes!
+Don't even get me started.	Bring mich bloß nicht auf die Palme!
+Don't even get me started.	Regen Sie mich bloß nicht auf!
+Don't even think about it.	Denk nicht mal daran!
+Don't even think about it.	Denke nicht einmal daran!
+Don't even think about it.	Denken Sie nicht einmal daran!
+Don't even think about it.	Denkt nicht einmal daran!
+Don't ever touch me again.	Fass mich nie wieder an!
+Don't expect any miracles.	Erwarte keine Wunder.
+Don't expect any miracles.	Erwartet keine Wunder.
+Don't expect any miracles.	Erwarten Sie keine Wunder.
+Don't fail to write to me.	Schreib mir unbedingt!
+Don't forget to add me in.	Vergiss nicht, mich dazu zu nehmen.
+Don't forget to buy bread.	Vergiss nicht, Brot zu kaufen!
+Don't forget your promise.	Vergiss nicht dein Versprechen.
+Don't get any funny ideas.	Komm nicht auf dumme Gedanken!
+Don't hang up yet, please.	Leg bitte noch nicht auf.
+Don't hold it upside down.	Halte es nicht verkehrt herum!
+Don't hold it upside down.	Halten Sie es nicht verkehrt herum!
+Don't jump to conclusions.	Ziehe keine voreiligen Schlüsse.
+Don't keep me in suspense.	Spann mich nicht auf die Folter.
+Don't laugh at my failure.	Lache nicht über mein Versagen.
+Don't lean out the window.	Lehn dich nicht aus dem Fenster.
+Don't lean out the window.	Lehnt euch nicht aus dem Fenster.
+Don't leave me here alone.	Lass mich hier nicht allein!
+Don't let anybody see you.	Pass auf, dass dich niemand sieht!
+Don't let him do it alone.	Lass ihn das nicht alleine machen!
+Don't let it get you down.	Lass dich davon nicht unterkriegen.
+Don't let your guard down.	Bleib wachsam!
+Don't look at me that way.	Schau mich nicht so an.
+Don't look at me that way.	Sieh mich nicht so an.
+Don't make me do it again.	Zwinge mich nicht, das nochmal zu machen.
+Don't make me do it again.	Lass mich das nicht nochmal machen.
+Don't mention that to Tom.	Sag Tom nichts davon!
+Don't mention this to Tom.	Sag das nicht Tom.
+Don't play with your food.	Nicht mit dem Essen spielen!
+Don't punish the children.	Strafe die Kinder nicht!
+Don't put that in the bag.	Mache das nicht in den Sack.
+Don't say anything to Tom.	Nichts Tom sagen!
+Don't say that word again.	Sag das nicht noch einmal.
+Don't smoke in the toilet.	Rauche nicht auf der Toilette!
+Don't smoke in the toilet.	Rauchen Sie nicht auf der Toilette!
+Don't smoke in the toilet.	Auf der Toilette nicht rauchen!
+Don't take my word for it.	Vertraut nicht darauf, was ich sage.
+Don't take my word for it.	Überzeug dich selbst.
+Don't tell Tom I'm coming.	Sag Tom nichts davon, dass ich komme!
+Don't tell me Tom is dead.	Tom ist tot? Sag bloß!
+Don't tell me what to eat.	Sag mir nicht, was ich essen soll.
+Don't thank me. Thank Tom.	Danke nicht mir, danke Tom!
+Don't throw anything away.	Schmeiß nichts weg!
+Don't throw anything away.	Schmeißen Sie nichts weg!
+Don't throw anything away.	Schmeißt nichts weg!
+Don't touch anything here.	Fass hier nichts an!
+Don't touch the wet paint.	Fass die nasse Farbe nicht an.
+Don't treat me like a dog.	Behandle mich nicht wie einen Hund!
+Don't treat me like a kid.	Behandel mich nicht wie ein Kind.
+Don't trust what Tom says.	Vertraue nicht darauf, was Tom sagt!
+Don't waste too much time.	Verschwende nicht zu viel Zeit!
+Don't waste too much time.	Verschwendet nicht zu viel Zeit!
+Don't waste too much time.	Verschwenden Sie nicht zu viel Zeit!
+Don't worry. I won't tell.	Mach dir keine Gedanken. Ich sage nichts.
+Don't worry. I won't tell.	Macht euch keine Gedanken. Ich sage nichts.
+Don't worry. I won't tell.	Machen Sie sich keine Gedanken. Ich sage nichts.
+Don't worry. I'm a doctor.	Keine Sorge! Ich bin Arzt.
+Don't worry. I'm a doctor.	Keine Sorge! Ich bin Ärztin.
