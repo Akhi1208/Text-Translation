@@ -1,5 +1,5 @@
 # Text-Translation
-text translation (english->deu)
+text translation (english->french)
 
   We are using many to many model of seq2seq modelling to get output text.
   We are using encoder decoder architecture for the model.
@@ -9,7 +9,7 @@ what is RCNN model?
 R-CNN is a two-stage detection algorithm. The first stage identifies a subset of regions in an image that might contain an object. The second stage classifies the object in each region. Applications for R-CNN object detectors include: Autonomous driving.
 
 The previous output is provided as input to the model to predict next step.
-example:
+example:'go'-'aller'
 step 1: add start and end tokens. As initial start value is required in the teacher forcing and end token to make the model understatnd that the sentence is completed
 
 Encoder-Decoder Workflow in NMT(neural machine translation)
