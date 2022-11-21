@@ -1,10 +1,10 @@
 # Text-Translation
 text translation (english->deu)
 
-  We are using many to many model of seq2seq modelling to get output text.
-  We are using encoder decoder architecture for the model.
+ To obtain output text, we use a many to many model of seq2seq modelling.
+For the model, we are employing an encoder decoder architecture.
 
-we are using advance RCNN model
+We are employing an advanced RCNN model.
 what is RCNN model?
 R-CNN is a two-stage detection algorithm. The first stage identifies a subset of regions in an image that might contain an object. The second stage classifies the object in each region. Applications for R-CNN object detectors include: Autonomous driving.
 
