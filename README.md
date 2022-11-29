@@ -36,5 +36,5 @@ word2 + decoder states 2 -> Decoder LSTM -> word3 + decoder states 3 ... so on
 The process stops when [end] token is predicted
 Note2:
 There are 2 stages of this model:
-Training with english input and french output
+Training with english input and deu(Germany) output
 inference mode where we will initialize model to take english words and predict french words
