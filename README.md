@@ -37,4 +37,4 @@ The process stops when [end] token is predicted
 Note2:
 There are 2 stages of this model:
 Training with english input and deu(Germany) output
-inference mode where we will initialize model to take english words and predict french words
+inference mode where we will initialize model to take english words and predict deu words
